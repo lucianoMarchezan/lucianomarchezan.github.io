@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! My name is Gean Trindade Pereira and I am a Ph.D. candidate in Computer Science at the [Institute of Mathematics and Computer Science (ICMC)](https://www.icmc.usp.br/en/) in the [University of São Paulo (USP)](https://www6.usp.br/english/research/). Previously, I did my Master's degree in Computer Science at the [Federal University of São Carlos (UFSCar)](http://ppgcc.dc.ufscar.br/en?set_language=en), and my Bachelor's in Software Engineering at the [Federal University of Pampa (UNIPAMPA)](https://unipampa.edu.br/alegrete/). I have experience on the topics of Machine Learning, Deep Learning, Meta-Learning, Computer Vision, Evolutionary Computation, Multi-Objective Optimization, and Bioinformatics, with a special interest in Neural Architecture Search.
+
+
+My Ph.D. research explores Meta-Learning to optimize the Neural Architecture Search (NAS) framework. Thus, my focus is to propose and investigate Meta-Learning approaches to improve NAS predictive performance, data efficiency, and to accelerate the search for novel architectures, especially for image recognition tasks. Through Meta-Learning, I am exploring the possibility of using prior knowledge to learn from fewer examples, which can significantly benefit the optimization of NAS. Besides, my research is concerned with finding neural architectures at a low cost, so my experiments involve using simple and efficient setups.
+
+
+From my research findings, I was able to publish [scientific papers](https://scholar.google.com.br/citations?user=lVhupSUAAAAJ&hl=en) in leading conferences on Evolutionary Computation, as the Genetic and Evolutionary Computation Conference (GECCO), and the IEEE Congress on Evolutionary Computation (CEC). Besides, I am constantly active in the Machine Learning community, having works accepted and contributing to workshops at the main conferences in the area, such as NeurIPS, CVPR, and ICCV.
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +55,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
