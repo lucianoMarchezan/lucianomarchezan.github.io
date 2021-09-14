@@ -7,11 +7,18 @@ redirect_from:
   - /resume
 ---
 
+
+<iframe src="/files/English_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+A copy of my CV is available [here](/files/English_CV.pdf).
+
+
+<!-- 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in GitHub, GitHub University, 2015
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
@@ -57,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
