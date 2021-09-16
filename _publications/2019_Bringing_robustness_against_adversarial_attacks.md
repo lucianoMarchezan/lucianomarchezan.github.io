@@ -1,5 +1,5 @@
 ---
-title: "Bringing robustness against adversarial attacks. Nature Machine Intelligence"
+title: "Bringing robustness against adversarial attacks"
 collection: publications
 permalink: /publication/2019_Transfer_Learning_for_Algorithm_Recommendation
 excerpt: 'PEREIRA, G. T.; CARVALHO, A. C. P. L. F. Bringing robustness against adversarial attacks. Nature Machine Intelligence. 2020'
