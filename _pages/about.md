@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Gean Trindade Pereira and I am a Ph.D. candidate in Computer Science at the [Institute of Mathematics and Computer Science (ICMC)](https://www.icmc.usp.br/en/) in the [University of São Paulo (USP)](https://www6.usp.br/english/research/). Previously, I did my Master's degree in Computer Science at the [Federal University of São Carlos (UFSCar)](http://ppgcc.dc.ufscar.br/en?set_language=en), and my Bachelor's in Software Engineering at the [Federal University of Pampa (UNIPAMPA)](https://unipampa.edu.br/alegrete/). I have experience on the topics of Machine Learning, Deep Learning, Meta-Learning, Computer Vision, Evolutionary Computation, Multi-Objective Optimization, and Bioinformatics, with a special interest in Neural Architecture Search.
+My name is Luciano Marchezan de Paula. I am a Ph.D. candidate in Computer Science at the [Institute of Software Systems Engineering (ISSE)](https://isse.jku.at/) in the [Johannes Kepler University Linz (JKU)](https://jku.at/). I obtained my Master's and my Bachelor's degrees in Software Engineering at the [Laboratory of Empirical Studies in Software Engineering (LESSE)](https://lesse.com.br/site/) in the [Federal University of Pampa (UNIPAMPA)](https://unipampa.edu.br/alegrete/). My research interests include Model-Driven Software Engineering, Automated Software Engineering, Software Reuse and Empirical Software Engineering.
+
+My Ph.D. research explores the maintainance of consistency across engineering artifacts in collaborative enviroments. 
 
 
-My Ph.D. research explores Meta-Learning to optimize the Neural Architecture Search (NAS) framework. Thus, my focus is to propose and investigate Meta-Learning approaches to improve NAS predictive performance, data efficiency, and to accelerate the search for novel architectures, especially for image recognition tasks. Through Meta-Learning, I am exploring the possibility of using prior knowledge to learn from fewer examples, which can significantly benefit the optimization of NAS. Besides, my research is concerned with finding neural architectures at a low cost, so my experiments involve using simple and efficient setups.
-
-
-From my research findings, I was able to publish [scientific papers](https://scholar.google.com.br/citations?user=lVhupSUAAAAJ&hl=en) in leading conferences on Evolutionary Computation, as the Genetic and Evolutionary Computation Conference (GECCO), and the IEEE Congress on Evolutionary Computation (CEC). Besides, I am constantly active in the Machine Learning community, having works accepted and contributing to workshops at the main conferences in the area, such as NeurIPS, CVPR, and ICCV.
+From my research findings, I was able to publish [scientific papers](https://scholar.google.com/citations?user=26yB7xkAAAAJ&hl=en&oi=ao) in different Software Engineering conferences (ESEM, ICSSP/ICGSE, SPLC, SEAMS) and Journals (JSS, EMSE, SoSym, SPE, IET Software).
 
 <!-- [Working Paper](/files/paper1.pdf){: .btn--research}
  -->

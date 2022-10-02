@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-<iframe src="/files/English_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/CurriculumVitae.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-A copy of my CV is available [here](/files/English_CV.pdf).
+A copy of my CV is available [here](/files/CurriculumVitae.pdf).
 
 
 <!-- 

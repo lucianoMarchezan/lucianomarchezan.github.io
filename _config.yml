@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gean Trindade"
+title                    : "Luciano Marchezan"
 title_separator          : "-"
-name                     : &name "Gean"
+name                     : &name "Luciano"
 description              : &description "personal description"
-url                      : https://geantrindade.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lucianomarchezan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "geantrindade/geantrindade.github.io"
+repository               : "lucianoMarchezan/lucianomarchezan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gean Trindade"
+  name             : "Luciano Marchezan"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate<br/>University of Sao Paulo (USP)"
-  location         : "Sao Carlos, Sao Paulo, Brazil"
+  bio              : "Ph.D. Candidate<br/>Johannes Kepler University Linz (JKU)"
+  location         : "Linz, Austria"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.br/citations?user=lVhupSUAAAAJ&hl=en"
-  email            : "geantrinpereira@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Gean-Pereira"
+  googlescholar    : "https://scholar.google.com/citations?user=26yB7xkAAAAJ&hl=en&oi=ao"
+  email            : "lucianomarchezan94@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Luciano-Marchezan"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "geantrindade"
+  github           : "lucianomarchezan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "gean-trindade"
-  orcid            : "https://orcid.org/0000-0001-6586-6401"
+  linkedin         : "lucianomarchezan"
+  orcid            : "https://orcid.org/0000-0003-3096-580X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
