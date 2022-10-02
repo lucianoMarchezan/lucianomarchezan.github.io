@@ -1,7 +1,7 @@
 ---
 title: "Code smell analysis in cloned Java variants: the apo-games case study"
 collection: publications
-permalink: /publication/2020_Evaluating_Meta_Feature_Selection_for_the_Algorithm_Recommendation_Problem
+permalink: /publication/2022_Code_smell_analysis_in_cloned_Java_variants_the_apo-games_case_study
 excerpt: 'Marchezan, L., Assunção, W. K., Michelon, G., Herac, E., & Egyed, A. (2022, September). Code smell analysis in cloned Java variants: the apo-games case study. In Proceedings of the 26th ACM International Systems and Software Product Line Conference-Volume A (pp. 250-254).'
 date: 2022-12-09
 venue: 'SPLC'
