@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-This page is under construction. The full list of publication is available on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+This page shows my main research publications. The full list of publications is available on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
