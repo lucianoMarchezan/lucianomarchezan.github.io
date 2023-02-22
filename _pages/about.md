@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Luciano Marchezan de Paula. I am a Ph.D. candidate in Computer Science at the [Institute of Software Systems Engineering (ISSE)](https://isse.jku.at/) in the [Johannes Kepler University Linz (JKU)](https://jku.at/). I obtained my Master's and my Bachelor's degrees in Software Engineering at the [Laboratory of Empirical Studies in Software Engineering (LESSE)](https://lesse.com.br/site/) in the [Federal University of Pampa (UNIPAMPA)](https://unipampa.edu.br/alegrete/). My research interests include Model-Driven Software Engineering, Automated Software Engineering, Software Reuse and Empirical Software Engineering.
+My name is Luciano Marchezan de Paula. I am a Ph.D. candidate in Computer Science at the [Institute of Software Systems Engineering (ISSE)](https://isse.jku.at/) at the [Johannes Kepler University Linz (JKU)](https://jku.at/). I obtained my Master's and my Bachelor's degrees in Software Engineering in the [Laboratory of Empirical Studies in Software Engineering (LESSE)](https://lesse.com.br/site/) at the [Federal University of Pampa (UNIPAMPA)](https://unipampa.edu.br/alegrete/). My research interests include Model-Driven Software Engineering, Automated Software Engineering, Software Reuse, and Empirical Software Engineering.
 
 My Ph.D. research explores the maintainance of consistency across engineering artifacts in collaborative enviroments. 
 
