@@ -2,9 +2,9 @@
 title: "343.008	Model-driven Engineering"
 collection: teaching
 type: "Master's course (3 credits)"
-permalink: /teaching/2023-summer-teaching-2
+permalink: /teaching/2024-summer-teaching-2
 venue: "Johannes Kepler University, Institute of Software Systems Engineering"
-date: 2023-03-09
+date: 2024-03-09
 location: "Linz, Austria"
 ---
 
