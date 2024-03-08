@@ -1,7 +1,7 @@
 ---
 title: "343.006	Seminar in Software Engineering (Recommendation Systems for Software Engineering)"
 collection: teaching
-type: "Masters course"
+type: "Masters course (3 credits)"
 permalink: /teaching/2021-summer-teaching-1
 venue: "Johannes Kepler University, Institute of Software Systems Engineering"
 date: 2021-03-09
