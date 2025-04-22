@@ -47,6 +47,7 @@ layout: default
         <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'grants' %}
         <p> {{ page.type }}, <i>{{ page.funding }}</i></p>
+        <p> PI:{{ page.pi }}, <i>Co-PIs:{{ page.copi }}, Collaborators:{{ page.collaborators }}</i></p>
         {% elsif page.venue and page.date %}
         <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
