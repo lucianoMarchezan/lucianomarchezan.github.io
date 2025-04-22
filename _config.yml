@@ -179,6 +179,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  grants:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -200,7 +203,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -218,7 +221,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
+  # _grants
+  - scope:
+      path: ""
+      type: grants
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -227,7 +239,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
