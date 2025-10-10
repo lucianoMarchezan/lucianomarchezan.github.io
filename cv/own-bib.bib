@@ -1,0 +1,340 @@
+@article{Troels2022,
+   abstract = {Engineering projects involve a variety of artifacts such as requirements, design, or source code. These artifacts, many of which tend to be interdependent, are often manipulated concurrently. To keep artifacts consistent, engineers must continuously consider their work in relation to the work of multiple other engineers. Traditional consistency checking approaches reason efficiently over artifact changes and their consistency implications. However, they do so solely within the boundaries of specific tools and their specific artifacts (e.g., consistency checking between different UML models). This makes it difficult to examine the consistency between different types of artifacts (e.g., consistency checking between UML models and the source code). Global consistency checking can help addressing this problem. However, it usually requires a disruptive and time-consuming merging process for artifacts. This article presents a novel, cloud-based approach to global consistency checking in a multi-developer/-tool engineering environment. It allows for global consistency checking across all artifacts that engineers work on concurrently. Moreover, it reasons over artifact changes immediately after the change happened, while keeping the (memory/CPU) cost of consistency checking minimal. The feasibility and scalability of our approach were demonstrated by a prototype implementation and through an empirical validation.},
+   author = {M.A. Tröls and L. Marchezan and A. Mashkoor and A. Egyed},
+   doi = {10.1007/s10270-022-00984-4},
+   issn = {16191374},
+   issue = {6},
+   journal = {Software and Systems Modeling},
+   keywords = {Consistency checking,Model-driven engineering,Multi-developer environment},
+   title = {Instant and global consistency checking during collaborative engineering},
+   volume = {21},
+   year = {2022},
+}
+@inproceedings{10.1145/3546932.3547015,
+author = {Marchezan, Luciano and Assun\c{c}\~{a}o, Wesley K. G. and Michelon, Gabriela and Herac, Edvin and Egyed, Alexander},
+title = {Code Smell Analysis in Cloned Java Variants: The Apo-Games Case Study},
+year = {2022},
+isbn = {9781450394437},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3546932.3547015},
+doi = {10.1145/3546932.3547015},
+booktitle = {Proceedings of the 26th ACM International Systems and Software Product Line Conference - Volume A},
+pages = {250–254},
+numpages = {5},
+keywords = {inconsistency repair, software product line, code smells, consistency checking},
+location = {Graz, Austria},
+series = {SPLC '22}
+}
+
+@inproceedings{CORP,
+author = {Marchezan, Luciano and Assuncao, Wesley K. G. and Kretschmer, Roland and Egyed, Alexander},
+title = {Change-Oriented Repair Propagation},
+year = {2022},
+isbn = {9781450396745},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3529320.3529330},
+doi = {10.1145/3529320.3529330},
+booktitle = {Proceedings of the International Conference on Software and System Processes and International Conference on Global Software Engineering},
+pages = {82–92},
+numpages = {11},
+keywords = {Model-Driven Engineering, Inconsistency Repair, Conflict Detection, Change Propagation},
+location = {Pittsburgh, PA, USA},
+series = {ICSSP'22}
+}
+@article{Marchezan2022b,
+   abstract = {Software line (SPL) scoping aids companies to define the boundaries of their resources such as products, domains, and assets, the target of reuse tasks scoping technical and organizational aspects. As scoping guides the management of the resources in SPL development, it becomes one of the core activities in this process. We can find in the literature several approaches on this topic, proposing techniques and methodologies to be applicable in different organizational scenarios. However, no work comprehensively reviews such approaches and describes the advances in state of the art in the last years. In this context, we look into identifying, analyzing, and extracting detailed characteristics from SPL scoping proposals found in the literature. These characteristics allowed us to compare these approaches, reason about their applicability, and identify existing limitations and research opportunities. Thus, we conducted a systematic literature review alongside snowballing, following a well-defined protocol to retrieve, classify and extract information from the literature. We analyzed a total of 58 studies, identifying 41 different approaches in the field, highlighting their similarities and differences, and establishing a generic scoping process. Furthermore, we discuss research opportunities in the SPL scoping field.},
+   author = {L. Marchezan and E. Rodrigues and W.K.G. Assunção and M. Bernardino and F.P. Basso and J. Carbonell},
+   doi = {10.1016/j.jss.2021.111189},
+   issn = {01641212},
+   journal = {Journal of Systems and Software},
+   keywords = {Snowballing,Software product line scoping,Software product lines,Systematic literature review},
+   title = {Software product line scoping: A systematic literature review},
+   volume = {186},
+   year = {2022},
+}
+@article{Marchezan2022c,
+   abstract = {There are many repair alternatives for resolving model inconsistencies, each involving one or more model changes. Enumerating them all could overwhelm the developer because the number of possible repairs can grow exponentially. To address this problem, this paper focuses on the immediate cause of an inconsistency. By focusing on the cause, we can generate a repair tree with a subset of repair actions focusing on fixing this cause. This strategy identifies model elements that must be repaired, as opposed to additional model elements that may or may not have to be repaired later. Furthermore, our approach can provide an ownership-based filter for filtering repairs that modify model elements not owned by a developer. This filtering can further reduce the repair possibilities, aiding the developer when choosing repairs to be performed. We evaluated our approach on 24 UML models and four Java systems, using 17 UML consistency rules and 14 Java consistency rules. The evaluation data contained 39,683 inconsistencies, showing our approach’s usability as the repair trees sizes ranged from five to nine on average per model. Also, these repair trees were generated in 0.3 seconds on average, showing our approach’s scalability. Based on the results, we discuss the correctness and minimalism with regard to the cause of the inconsistency. Lastly, we evaluated the filtering mechanism, showing that it is possible to further reduce the number of repairs generated by focusing on ownership.},
+   author = {L. Marchezan and R. Kretschmer and W.K.G. Assunção and A. Reder and A. Egyed},
+   doi = {10.1007/s10270-022-00996-0},
+   issn = {16191374},
+   journal = {Software and Systems Modeling},
+   keywords = {Consistency checking,Inconsistency repair,Model-driven engineering,Repair generation},
+   title = {Generating repairs for inconsistent models},
+   year = {2022},
+}
+@inproceedings{Marchezan2021,
+   author = {L. Marchezan and W.K.G. Assunção and J. Carbonell and E. Rodrigues and M. Bernardino and F. Basso},
+   doi = {10.1145/3483899.3483902},
+   isbn = {9781450384193},
+   title = {{SPLReePlan - Automated Support for Software Product Line Reengineering Planning}},
+   year = {2021},
+   booktitle = {15th Brazilian Symposium on Software Components, Architectures, and Reuse},
+    pages = {1–10},
+    numpages = {10},
+    keywords = {software product lines, automated support, reengineering process, variability management},
+    location = {Joinville, Brazil},
+    series = {SBCARS '21}
+}
+
+@inproceedings{10.1145/3382026.3425767,
+author = {Marchezan, Luciano and Carbonell, Jo\~{a}o and Rodrigues, Elder and Bernardino, Maicon and Basso, F\'{a}bio Paulo and Assun\c{c}\~{a}o, Wesley K. G.},
+title = {{Enhancing the Feature Retrieval Process with Scoping and Tool Support: PAxSPL\_v2}},
+year = {2020},
+isbn = {9781450375702},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3382026.3425767},
+doi = {10.1145/3382026.3425767},
+booktitle = {Proceedings of the 24th ACM International Systems and Software Product Line Conference - Volume B},
+pages = {29–36},
+numpages = {8},
+keywords = {automated support, variability management, software product lines},
+location = {Montreal, QC, Canada},
+series = {SPLC '20}
+}
+@article{Iung2020,
+   abstract = {Domain-specific languages (DSL) are programming or modeling languages devoted to a given application domain. There are many tools used to support the implementation of a DSL, making hard the decision-making process for one or another. In this sense, identifying and mapping their features is relevant for decision-making by academic and industrial initiative on DSL development. Objective: The goal of this work is to identify and map the tools, Language Workbenches (LW), or frameworks that were proposed to develop DSLs discussed and referenced in publications between 2012 and 2019. Method: A Systematic Mapping Study (SMS) of the literature scoping tools for DSL development. Results: We identified 59 tools, including 9 under a commercial license and 41 with non-commercial licenses, and analyzed their features from 230 papers. Conclusion: There is a substantial amount of tools that cover a large number of features. Furthermore, we observed that usually, the developer adopts one type of notation to implement the DSL: textual or graphical. We also discuss research gaps, such as a lack of tools that allow meta-meta model transformations and that support modeling tools interoperability.},
+   author = {A. Iung and J. Carbonell and L. Marchezan and E. Rodrigues and M. Bernardino and F.P. Basso and B. Medeiros},
+   doi = {10.1007/s10664-020-09872-1},
+   issn = {15737616},
+   issue = {5},
+   journal = {Empirical Software Engineering},
+   keywords = {DSL,DSL-supporting tools,Domain-specific language,Language workbench,Model driven engineering,Systematic mapping study,Systematic review},
+   title = {Systematic mapping study on domain-specific language development tools},
+   volume = {25},
+   year = {2020},
+}
+@INPROCEEDINGS{8870160,
+  author={Marchezan, Luciano and Bolfe, Guilherme and Rodrigues, Elder and Bernardino, Maicon and Basso, Fábio Paulo},
+  booktitle={2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)}, 
+  title={Thoth: A Web-based Tool to Support Systematic Reviews}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ESEM.2019.8870160}}
+
+@article{Marchezan2019b,
+   author = {L. Marchezan and E. Macedo Rodrigues and M. Bernardino and F. Paulo Basso},
+   doi = {10.1002/spe.2707},
+   issn = {1097024X},
+   issue = {8},
+   journal = {Software - Practice and Experience},
+   keywords = {feature model,feature retrieval,software product line,software product line reengineering,software reengineering,software reuse},
+   title = {{PAxSPL: A feature retrieval process for software product line reengineering}},
+   volume = {49},
+   year = {2019},
+}
+@inproceedings{10.1145/3194133.3194136,
+author = {da Silva, Jo\~{a}o Pablo S. and Ecar, Miguel and Pimenta, Marcelo S. and Guedes, Gilleanes T. A. and Franz, Luiz Paulo and Marchezan, Luciano},
+title = {A Systematic Literature Review of UML-Based Domain-Specific Modeling Languages for Self-Adaptive Systems},
+year = {2018},
+isbn = {9781450357159},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3194133.3194136},
+doi = {10.1145/3194133.3194136},
+booktitle = {Proceedings of the 13th International Conference on Software Engineering for Adaptive and Self-Managing Systems},
+pages = {87–93},
+numpages = {7},
+keywords = {domain-specific modeling language (DSML), systematic literature review (SLR), unified modeling language (UML), self-adaptive systems (SaS), snowballing technique},
+location = {Gothenburg, Sweden},
+series = {SEAMS '18}
+}
+@article{Bernardino2017,
+   abstract = {Every year several contributions to the model-based testing (MBT) field are published. Therefore, to follow the evolution and trends of several tools and models available is difficult. Moreover, since the variety of models and tools that became available in recent years, choosing an approach to support the MBT process is a challenging activity. The main objective of this study is to provide an overview on MBT tools and models used by those tools. Furthermore, the authors' study can help academic researchers and companies to understand the topics involving MBT. Therefore, a systematic mapping study was conducted in which 1197 distinct papers were evaluated. At the end, 87 primary studies were selected to be analysed in a quantitative and qualitative way. As a result, they classified the tools and models that are currently used to support MBT. Moreover, they identified 70 MBT tools, as well as different domains in which MBT is already applied to. Therefore, there are some evidence that MBT continues to be a broad and 'alive' research field since every year a significant number of papers presenting different kinds of contributions are published.},
+   author = {M. Bernardino and E.M. Rodrigues and A.F. Zorzo and L. Marchezan},
+   doi = {10.1049/iet-sen.2015.0154},
+   issn = {17518806},
+   issue = {4},
+   journal = {IET Software},
+   title = {Systematic mapping study on MBT: Tools and models},
+   volume = {11},
+   year = {2017},
+}
+
+@incollection{marchezan2022paxspl,
+  title={{PAxSPL: A Framework for Aiding SPL Reengineering Planning}},
+  author={Marchezan, Luciano and Rodrigues, Elder and Carbonell, Jo{\~a}o and Bernardino, Maicon and Basso, F{\'a}bio Paulo and Assun{\c{c}}{\~a}o, Wesley KG},
+  booktitle={Handbook of Re-Engineering Software Intensive Systems into Software Product Lines},
+  pages={319--353},
+  year={2022},
+  publisher={Springer}
+}
+@incollection{rodrigues2022plets,
+  title={{PLeTs: A Software Product Line for Testing Tools}},
+  author={Rodrigues, Elder M and Zorzo, Avelino F and Marchezan, Luciano},
+  booktitle={UML-Based Software Product Line Engineering with SMarty},
+  pages={315--334},
+  year={2022},
+  publisher={Springer}
+}
+@inproceedings{marchezan2017towards,
+  title={Towards a generic process for spl re-engineering},
+  author={Marchezan, Luciano and Rodrigues, Elder and Bernardino, Maicon and Laser, Marcelo and Lima, Fernando},
+  booktitle={Anais da I Escola Regional de Engenharia de Software},
+  pages={1--8},
+  year={2017},
+  organization={SBC}
+}
+
+@inproceedings{carbonelli2018analyzing,
+  title={Analyzing the Impact of the Search Phase in a Systematic Mapping Study},
+  author={Carbonelli, Jo{\~a}o and Marchezan, Luciano and Neto, An{\'\i}bal and Rodrigues, Elder and Bernardino, Maicon and Lima, Yury},
+  booktitle={Anais da II Escola Regional de Engenharia de Software},
+  pages={33--40},
+  year={2018},
+  organization={SBC}
+}
+@inproceedings{marchezan2019customizable,
+  title={A customizable SPL scoping process for SPL reengineering},
+  author={Marchezan, Luciano and Rodrigues, Elder and Bernardino, Maicon and Basso, F{\'a}bio Paulo},
+  booktitle={Anais da III Escola Regional de Engenharia de Software},
+  pages={137--146},
+  year={2019},
+  organization={SBC}
+}
+
+@inproceedings{EASE,
+author = {Marchezan, Luciano and Assun\c{c}\~{a}o, Wesley K. G. and Michelon, Gabriela Karoline and Egyed, Alexander},
+title = {Do Developers Benefit from Recommendations When Repairing Inconsistent Design Models? A Controlled Experiment},
+year = {2023}, 
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3593434.3593482},
+doi = {10.1145/3593434.3593482},
+abstract = {Repairing design models is a laborious task that requires a considerable amount of time and effort from developers. Repair recommendation (RR) approaches focus on reducing the effort and improving the quality of the repairs performed. Such approaches have been evaluated in terms of scalability, correctness, and minimalism. These evaluations, however, have not investigated how developers can benefit from using RRs and how they perceive the difficulty of applying RRs. Investigating and discussing the use of RRs from the developers’ perspective is important to demonstrate the benefits of applying such approaches in practice. We explore this opportunity by conducting a controlled experiment carried out with 24 developers where they repaired UML design models in eight different tasks, with and without RRs. The findings indicate that developers can benefit from RRs in complex tasks by improving their effectiveness and efficiency. The results also evidence that the use of RRs does not impact the developers’ perceived difficulty and confidence when repairing models. Furthermore, our findings show that not all developers choose the same RR, but rather, have varied preferences. Thus, the provision of RRs leads to developers considering additional alternatives to repair an inconsistency.},
+booktitle = {Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering},
+pages = {131–140},
+numpages = {10},
+keywords = {Controlled Experiment, Repair Recommendations, Consistency Checking},
+location = {Oulu, Finland},
+series = {EASE '23}
+}
+
+@INPROCEEDINGS{SEIP,
+  author={Marchezan, Luciano and Assunção, Wesley K. G. and Herac, Edvin and Keplinger, Felix and Egyed, Alexander and Lauwerys, Christophe},
+  booktitle={2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)}, 
+  title={Fulfilling Industrial Needs for Consistency Among Engineering Artifacts}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={246-257},
+  doi={10.1109/ICSE-SEIP58684.2023.00028}}
+
+@inproceedings{Herac2023,
+  author = {E. Herac and W.K.G. Assunção and L. Marchezan and R. Haas and A. Egyed},
+  title = {A flexible operation-based infrastructure for collaborative model-driven engineering},
+  journal = {Journal of Object Technology},
+  volume = {22},
+  number = {2},
+  issn = {1660-1769},
+  year = {2023},
+  month = jul,
+  editor = {},
+  note = {The 19th European Conference on Modelling Foundations and Applications (ECMFA 2023)},
+  pages = {2:1-14},
+  doi = {10.5381/jot.2023.22.2.a5}
+}
+
+
+@INPROCEEDINGS{homolka2024don,
+  title={{“Don’t Touch my Model!” Towards Managing Model History and Versions during Metamodel Evolution}},
+  author={Homolka, Marcel and Marchezan, Luciano and Assun{\c{c}}{\~a}o, Wesley KG and Egyed, Alexander},
+  year={2024},
+  booktitle={2024 IEEE/ACM 45th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)}, 
+  doi = {} 
+}
+
+@article{MAYRDORN2024,
+title = {Actionable light-weight process guidance},
+journal = {Journal of Systems and Software},
+volume = {214},
+pages = {112064},
+year = {2024},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2024.112064},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121224001092},
+author = {Christoph Mayr-Dorn and Cosmina-Cristina Ratiu and Luciano Marchezan and Felix Keplinger and Alexander Egyed and Gala Walden},
+keywords = {Process, Constraints, Quality assurance, Traceability, Engineering guidance, Repairs}, 
+}
+
+@INPROCEEDINGS{Marchezan2024,
+  title={Exploring Dependencies Among Inconsistencies to Enhance the Consistency Maintenance of Models},
+  author={Marchezan, Luciano and Assun{\c{c}}ao, Wesley KG and Herac, Edvin and Shafiq, Saad and Egyed, Alexander},
+year = {2024},
+booktitle={IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)}
+}
+
+@article{Herac2024,
+  author = {Edvin Herac and Luciano Marchezan and Wesley K. G. Assunção and Alexander Egyed},
+  title = {Conflict-based Change Awareness for Collaborative Model-driven Software Engineering},
+  journal = {Journal of Object Technology},
+  volume = {23},
+  number = {3},
+  issn = {1660-1769},
+  year = {2024},
+  month = jul,
+  editor = {},
+  note = {The 20th European Conference on Modelling Foundations and Applications (ECMFA 2024)},
+  pages = {1-14},
+  doi = {10.5381/jot.2024.23.3.a7},
+  url = {http://www.jot.fm/contents/issue_2024_03/article7.html}
+}
+
+@INPROCEEDINGS{Assunção2024,
+      title={Contemporary Software Modernization: Perspectives and Challenges to Deal with Legacy Systems}, 
+      author={Wesley K. G. Assunção and Luciano Marchezan and Alexander Egyed and Rudolf Ramler},
+      year={2024},
+      eprint={2407.04017}, 
+      url={https://arxiv.org/abs/2407.04017}, 
+    booktitle={2030 Software Engineering}
+}
+
+@INPROCEEDINGS{Marchezan2024GenAi,
+      title={Model-based Maintenance and Evolution with GenAI: A Look into the Future}, 
+      author={Luciano Marchezan and Wesley K. G. Assunção and Edvin Herac and Alexander Egyed},
+      year={2024},
+      eprint={2407.07269}, 
+      url={https://arxiv.org/abs/2407.07269}, 
+    booktitle={2030 Software Engineering}
+}
+
+@INPROCEEDINGS{homolkahappened,
+  title={{“What Happened to my Models?” History-Aware Co-Existence and Co-Evolution of Metamodels and Models}},
+  author={Homolka, Marcel and Marchezan, Luciano and Assun{\c{c}}ao, Wesley KG and Egyed, Alexander},
+year = {2024},
+booktitle={International Conference on Software Maintenance and Evolution (ICSME)}
+}
+
+@article{Assuncao2024,
+author = {Assun\c{c}\~{a}o, Wesley K. G. and Marchezan, Luciano and Arkoh, Lawrence and Egyed, Alexander and Ramler, Rudolf},
+title = {Contemporary Software Modernization: Strategies, Driving Forces, and Research Opportunities},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3708527},
+doi = {10.1145/3708527},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = dec,
+keywords = {Software Evolution, Software Migration, Re-designing, Re-engineering}
+}
+
+@inproceedings{Marchezan2024Tool,
+author = {Marchezan, Luciano and Homolka, Marcel and Blokhin, Andrei and Assun\c{c}\~{a}o, Wesley K. G. and Herac, Edvin and Egyed, Alexander},
+title = {A Tool for Collaborative Consistency Checking During Modeling},
+year = {2024}, 
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3652620.3688558},
+doi = {10.1145/3652620.3688558},
+booktitle = {Proceedings of the ACM/IEEE 27th International Conference on Model Driven Engineering Languages and Systems},
+pages = {655–659},
+numpages = {5},
+keywords = {collaborative modeling, consistency checking, tool demo},
+location = {Linz, Austria},
+series = {MODELS Companion '24}
+}
