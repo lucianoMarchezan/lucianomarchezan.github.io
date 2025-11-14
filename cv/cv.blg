@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: cv.aux
+The top-level auxiliary file: c:/Users/lamp6/OneDrive/Documentos/Github/lucianomarchezan.github.io/cv/cv.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: biblatex.bst
 Reallocating 'name_of_file' (item size: 1) to 7 items.
@@ -25,44 +25,44 @@ Database file #2: own-bib.bib
 Biblatex version: 3.21
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 31 entries,
+You've used 33 entries,
             6402 wiz_defined-function locations,
-            1451 strings with 27256 characters,
-and the built_in function-call counts, 452653 in all, are:
-= -- 37198
-> -- 12358
-< -- 1737
-+ -- 20225
-- -- 9214
-* -- 33407
-:= -- 58423
+            1461 strings with 27879 characters,
+and the built_in function-call counts, 481139 in all, are:
+= -- 39533
+> -- 13145
+< -- 1825
++ -- 21478
+- -- 9818
+* -- 35574
+:= -- 62153
 add.period$ -- 0
-call.type$ -- 31
-change.case$ -- 687
-chr.to.int$ -- 422
-cite$ -- 60
-duplicate$ -- 41637
-empty$ -- 34337
-format.name$ -- 3228
-if$ -- 84593
+call.type$ -- 33
+change.case$ -- 705
+chr.to.int$ -- 446
+cite$ -- 64
+duplicate$ -- 44125
+empty$ -- 36545
+format.name$ -- 3436
+if$ -- 89905
 int.to.chr$ -- 0
-int.to.str$ -- 130
+int.to.str$ -- 138
 missing$ -- 0
-newline$ -- 1576
-num.names$ -- 1739
-pop$ -- 12313
+newline$ -- 1659
+num.names$ -- 1827
+pop$ -- 13127
 preamble$ -- 1
-purify$ -- 1011
+purify$ -- 1049
 quote$ -- 0
-skip$ -- 7477
+skip$ -- 7892
 stack$ -- 0
-substring$ -- 74002
-swap$ -- 6752
-text.length$ -- 1328
-text.prefix$ -- 30
+substring$ -- 78840
+swap$ -- 7120
+text.length$ -- 1413
+text.prefix$ -- 32
 top$ -- 1
-type$ -- 1042
+type$ -- 1110
 warning$ -- 0
-while$ -- 6148
+while$ -- 6518
 width$ -- 0
-write$ -- 1546
+write$ -- 1627

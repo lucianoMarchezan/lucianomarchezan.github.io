@@ -17,6 +17,93 @@
 \endgroup
 
 \datalist[entry]{ydnt/global//global/global/global}
+  \entry{Homolka2025}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=HM}{%
+         family={Homolka},
+         familyi={H\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}ao},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM+1}
+    \strng{fullhash}{HMMLAWKEA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{Just accepted}
+    \field{title}{“What Really Happened to my Models?”, Extending
+  Co-Evolution with Cross-Layer Traceability in Metamodel-Model Histories"}
+    \field{journaltitle}{Empirical Software Engineering}
+    \field{year}{2026}
+  \endentry
+
+  \entry{Desai2025}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=DSV}{%
+         family={Desai},
+         familyi={D\bibinitperiod},
+         given={Shubham\bibnamedelima Vasudeo},
+         giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bhide},
+         familyi={B\bibinitperiod},
+         given={Shonil},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Serbout},
+         familyi={S\bibinitperiod},
+         given={Souhaila},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWKG}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSV+1}
+    \strng{fullhash}{DSVBSSSMLAWKG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{40th IEEE/ACM International Conference on Automated
+  Software Engineering (ASE): Tool Demonstration}
+    \field{title}{PrioTestCI: Efficient Test Case Prioritization in GitHub
+  Workflows for CI Optimization}
+    \field{year}{2025}
+  \endentry
+
   \entry{homolka2025going}{inproceedings}{}{}
     \name{author}{4}{}{%
       {{hash=HM}{%

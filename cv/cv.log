@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  28 OCT 2025 15:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  14 NOV 2025 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1067,9 +1067,11 @@ LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/n' will be
 
 [2]
 
-[3]) (teaching.tex) (teaching.tex) (teaching.tex) (teaching.tex) (grants.tex) (grants.tex) (grants.tex) (grants.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex [4]) (skills.tex) (skills.tex) (skills.tex) (skills.tex [5]) (referee.tex) (referee.tex) (referee.tex) (referee.tex)
+[3]) (teaching.tex) (teaching.tex) (teaching.tex) (teaching.tex) (grants.tex) (grants.tex) (grants.tex) (grants.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex
 
-[6] (cv.aux)
+[4])
+
+[5] (cv.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
@@ -1081,17 +1083,17 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35259 strings out of 468130
- 700437 string characters out of 5430633
- 1516990 words of memory out of 5000000
+ 35238 strings out of 468130
+ 699944 string characters out of 5430633
+ 1518026 words of memory out of 5000000
  63170 multiletter control sequences out of 15000+600000
- 872717 words of font info for 82 fonts, out of 8000000 for 9000
+ 871837 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1946b,1799s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (6 pages, 1166806 bytes).
+Output written on cv.pdf (5 pages, 1163817 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
