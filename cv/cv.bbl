@@ -17,7 +17,7 @@
 \endgroup
 
 \datalist[entry]{ydnt/global//global/global/global}
-  \entry{Homolka2025}{article}{}{}
+  \entry{homolka2026really}{article}{}{}
     \name{author}{4}{}{%
       {{hash=HM}{%
          family={Homolka},
@@ -31,11 +31,11 @@
          given={Luciano},
          giveni={L\bibinitperiod},
       }}%
-      {{hash=AWK}{%
-         family={Assun{\c{c}}ao},
-         familyi={A\bibinitperiod},
-         given={Wesley\bibnamedelima KG},
-         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      {{hash=KAW}{%
+         family={KG\bibnamedelima Assun{\c{c}}{\~a}o},
+         familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Wesley},
+         giveni={W\bibinitperiod},
       }}%
       {{hash=EA}{%
          family={Egyed},
@@ -44,15 +44,23 @@
          giveni={A\bibinitperiod},
       }}%
     }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
     \strng{namehash}{HM+1}
-    \strng{fullhash}{HMMLAWKEA2}
+    \strng{fullhash}{HMMLKAWEA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
     \field{sortinithash}{7}
-    \field{note}{Just accepted}
-    \field{title}{“What Really Happened to my Models?”, Extending
-  Co-Evolution with Cross-Layer Traceability in Metamodel-Model Histories"}
+    \verb{doi}
+    \verb 10.1007/s10664-025-10773-4
+    \endverb
+    \field{number}{2}
+    \field{pages}{38}
+    \field{title}{{“What really happened to my models?” Extending
+  co-evolution with cross-layer traceability in metamodel-model histories}}
+    \field{volume}{31}
     \field{journaltitle}{Empirical Software Engineering}
     \field{year}{2026}
   \endentry
@@ -1588,7 +1596,7 @@
   \entry{carbonelli2018analyzing}{inproceedings}{}{}
     \name{author}{6}{}{%
       {{hash=CJ}{%
-         family={Carbonelli},
+         family={Carbonell},
          familyi={C\bibinitperiod},
          given={Jo{\~a}o},
          giveni={J\bibinitperiod},
