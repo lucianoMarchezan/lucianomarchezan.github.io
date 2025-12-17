@@ -1832,5 +1832,15 @@
     \field{title}{Towards a generic process for spl re-engineering}
     \field{year}{2017}
   \endentry
+
+  \entry{Marchezan2026Kamino}{inproceedings}{}{}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+  \endentry
+
+  \entry{Marchezan2026NeoModeling}{article}{}{}
+    \field{sortinit}{9}
+    \field{sortinithash}{9}
+  \endentry
 \enddatalist
 \endinput
