@@ -1,0 +1,1836 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{ydnt/global//global/global/global}
+  \entry{homolka2026really}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=HM}{%
+         family={Homolka},
+         familyi={H\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KAW}{%
+         family={KG\bibnamedelima Assun{\c{c}}{\~a}o},
+         familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+         given={Wesley},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{HM+1}
+    \strng{fullhash}{HMMLKAWEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.1007/s10664-025-10773-4
+    \endverb
+    \field{number}{2}
+    \field{pages}{38}
+    \field{title}{{“What really happened to my models?” Extending
+  co-evolution with cross-layer traceability in metamodel-model histories}}
+    \field{volume}{31}
+    \field{journaltitle}{Empirical Software Engineering}
+    \field{year}{2026}
+  \endentry
+
+  \entry{Desai2025}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=DSV}{%
+         family={Desai},
+         familyi={D\bibinitperiod},
+         given={Shubham\bibnamedelima Vasudeo},
+         giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bhide},
+         familyi={B\bibinitperiod},
+         given={Shonil},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Serbout},
+         familyi={S\bibinitperiod},
+         given={Souhaila},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWKG}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DSV+1}
+    \strng{fullhash}{DSVBSSSMLAWKG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{40th IEEE/ACM International Conference on Automated
+  Software Engineering (ASE): Tool Demonstration}
+    \field{title}{PrioTestCI: Efficient Test Case Prioritization in GitHub
+  Workflows for CI Optimization}
+    \field{year}{2025}
+  \endentry
+
+  \entry{homolka2025going}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=HM}{%
+         family={Homolka},
+         familyi={H\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}ao},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM+1}
+    \strng{fullhash}{HMMLAWKEA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Proceedings of the ACM/IEEE 28th International Conference
+  on Model Driven Engineering Languages and Systems}
+    \field{title}{Going from the Past back to the Future: Incrementally
+  Reconstructing a Metamodel History}
+    \field{year}{2025}
+  \endentry
+
+  \entry{Assuncao2024}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=AaWKG}{%
+         family={Assun\c{c}\~{a}o},
+         familyi={A\bibinitperiod\bibinitdelim a\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Arkoh},
+         familyi={A\bibinitperiod},
+         given={Lawrence},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Ramler},
+         familyi={R\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{Software Evolution, Software Migration, Re-designing, Re-engineering}
+    \strng{namehash}{AaWKG+1}
+    \strng{fullhash}{AaWKGMLALEARR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.1145/3708527
+    \endverb
+    \field{issn}{1049-331X}
+    \field{title}{Contemporary Software Modernization: Strategies, Driving
+  Forces, and Research Opportunities}
+    \verb{url}
+    \verb https://doi.org/10.1145/3708527
+    \endverb
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{ACM Trans. Softw. Eng. Methodol.}
+    \field{month}{12}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Assunção2024}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=AWKG}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Ramler},
+         familyi={R\bibinitperiod},
+         given={Rudolf},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AWKG+1}
+    \strng{fullhash}{AWKGMLEARR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{2030 Software Engineering}
+    \verb{eprint}
+    \verb 2407.04017
+    \endverb
+    \field{title}{Contemporary Software Modernization: Perspectives and
+  Challenges to Deal with Legacy Systems}
+    \verb{url}
+    \verb https://arxiv.org/abs/2407.04017
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Herac2024}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=HE}{%
+         family={Herac},
+         familyi={H\bibinitperiod},
+         given={Edvin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWKG}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HE+2}
+    \strng{fullhash}{HEMLAWKGEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.5381/jot.2024.23.3.a7
+    \endverb
+    \field{issn}{1660-1769}
+    \field{note}{The 20th European Conference on Modelling Foundations and
+  Applications (ECMFA 2024)}
+    \field{number}{3}
+    \field{pages}{1\bibrangedash 14}
+    \field{title}{Conflict-based Change Awareness for Collaborative
+  Model-driven Software Engineering}
+    \verb{url}
+    \verb http://www.jot.fm/contents/issue_2024_03/article7.html
+    \endverb
+    \field{volume}{23}
+    \field{journaltitle}{Journal of Object Technology}
+    \field{month}{07}
+    \field{year}{2024}
+  \endentry
+
+  \entry{homolka2024don}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=HM}{%
+         family={Homolka},
+         familyi={H\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}{\~a}o},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM+1}
+    \strng{fullhash}{HMMLAWKEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{2024 IEEE/ACM 45th International Conference on Software
+  Engineering: New Ideas and Emerging Results (ICSE-NIER)}
+    \field{title}{{“Don’t Touch my Model!” Towards Managing Model History
+  and Versions during Metamodel Evolution}}
+    \field{year}{2024}
+  \endentry
+
+  \entry{homolkahappened}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=HM}{%
+         family={Homolka},
+         familyi={H\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}ao},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM+1}
+    \strng{fullhash}{HMMLAWKEA2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{International Conference on Software Maintenance and
+  Evolution (ICSME)}
+    \field{title}{{“What Happened to my Models?” History-Aware Co-Existence
+  and Co-Evolution of Metamodels and Models}}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Marchezan2024}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}ao},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Herac},
+         familyi={H\bibinitperiod},
+         given={Edvin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Shafiq},
+         familyi={S\bibinitperiod},
+         given={Saad},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLAWKHESSEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{IEEE International Conference on Software Analysis,
+  Evolution and Reengineering (SANER)}
+    \field{title}{Exploring Dependencies Among Inconsistencies to Enhance the
+  Consistency Maintenance of Models}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Marchezan2024GenAi}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWKG}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Herac},
+         familyi={H\bibinitperiod},
+         given={Edvin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLAWKGHEEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{2030 Software Engineering}
+    \verb{eprint}
+    \verb 2407.07269
+    \endverb
+    \field{title}{Model-based Maintenance and Evolution with GenAI: A Look into
+  the Future}
+    \verb{url}
+    \verb https://arxiv.org/abs/2407.07269
+    \endverb
+    \field{year}{2024}
+  \endentry
+
+  \entry{Marchezan2024Tool}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Homolka},
+         familyi={H\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Blokhin},
+         familyi={B\bibinitperiod},
+         given={Andrei},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AaWKG}{%
+         family={Assun\c{c}\~{a}o},
+         familyi={A\bibinitperiod\bibinitdelim a\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Herac},
+         familyi={H\bibinitperiod},
+         given={Edvin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{collaborative modeling, consistency checking, tool demo}
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLHMBAAaWKGHEEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Proceedings of the ACM/IEEE 27th International Conference
+  on Model Driven Engineering Languages and Systems}
+    \verb{doi}
+    \verb 10.1145/3652620.3688558
+    \endverb
+    \field{pages}{655–659}
+    \field{series}{MODELS Companion '24}
+    \field{title}{A Tool for Collaborative Consistency Checking During
+  Modeling}
+    \verb{url}
+    \verb https://doi.org/10.1145/3652620.3688558
+    \endverb
+    \list{location}{1}{%
+      {Linz, Austria}%
+    }
+    \field{year}{2024}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{MAYRDORN2024}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=MDC}{%
+         family={Mayr-Dorn},
+         familyi={M\bibinithyphendelim D\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RCC}{%
+         family={Ratiu},
+         familyi={R\bibinitperiod},
+         given={Cosmina-Cristina},
+         giveni={C\bibinithyphendelim C\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Keplinger},
+         familyi={K\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WG}{%
+         family={Walden},
+         familyi={W\bibinitperiod},
+         given={Gala},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \keyw{Process, Constraints, Quality assurance, Traceability, Engineering
+  guidance, Repairs}
+    \strng{namehash}{MDC+1}
+    \strng{fullhash}{MDCRCCMLKFEAWG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.jss.2024.112064
+    \endverb
+    \field{issn}{0164-1212}
+    \field{pages}{112064}
+    \field{title}{Actionable light-weight process guidance}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0164121224001092
+    \endverb
+    \field{volume}{214}
+    \field{journaltitle}{Journal of Systems and Software}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Herac2023}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=HE}{%
+         family={Herac},
+         familyi={H\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AW}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={W.K.G.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Haas},
+         familyi={H\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HE+1}
+    \strng{fullhash}{HEAWMLHREA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.5381/jot.2023.22.2.a5
+    \endverb
+    \field{issn}{1660-1769}
+    \field{note}{The 19th European Conference on Modelling Foundations and
+  Applications (ECMFA 2023)}
+    \field{number}{2}
+    \field{pages}{2:1\bibrangedash 14}
+    \field{title}{A flexible operation-based infrastructure for collaborative
+  model-driven engineering}
+    \field{volume}{22}
+    \field{journaltitle}{Journal of Object Technology}
+    \field{month}{07}
+    \field{year}{2023}
+  \endentry
+
+  \entry{EASE}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AaWKG}{%
+         family={Assun\c{c}\~{a}o},
+         familyi={A\bibinitperiod\bibinitdelim a\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=MGK}{%
+         family={Michelon},
+         familyi={M\bibinitperiod},
+         given={Gabriela\bibnamedelima Karoline},
+         giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{Controlled Experiment, Repair Recommendations, Consistency Checking}
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLAaWKGMGKEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Repairing design models is a laborious task that requires a considerable
+  amount of time and effort from developers. Repair recommendation (RR)
+  approaches focus on reducing the effort and improving the quality of the
+  repairs performed. Such approaches have been evaluated in terms of
+  scalability, correctness, and minimalism. These evaluations, however, have
+  not investigated how developers can benefit from using RRs and how they
+  perceive the difficulty of applying RRs. Investigating and discussing the use
+  of RRs from the developers’ perspective is important to demonstrate the
+  benefits of applying such approaches in practice. We explore this opportunity
+  by conducting a controlled experiment carried out with 24 developers where
+  they repaired UML design models in eight different tasks, with and without
+  RRs. The findings indicate that developers can benefit from RRs in complex
+  tasks by improving their effectiveness and efficiency. The results also
+  evidence that the use of RRs does not impact the developers’ perceived
+  difficulty and confidence when repairing models. Furthermore, our findings
+  show that not all developers choose the same RR, but rather, have varied
+  preferences. Thus, the provision of RRs leads to developers considering
+  additional alternatives to repair an inconsistency.%
+    }
+    \field{booktitle}{Proceedings of the 27th International Conference on
+  Evaluation and Assessment in Software Engineering}
+    \verb{doi}
+    \verb 10.1145/3593434.3593482
+    \endverb
+    \field{pages}{131–140}
+    \field{series}{EASE '23}
+    \field{title}{Do Developers Benefit from Recommendations When Repairing
+  Inconsistent Design Models? A Controlled Experiment}
+    \verb{url}
+    \verb https://doi.org/10.1145/3593434.3593482
+    \endverb
+    \list{location}{1}{%
+      {Oulu, Finland}%
+    }
+    \field{year}{2023}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{SEIP}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWKG}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Herac},
+         familyi={H\bibinitperiod},
+         given={Edvin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=KF}{%
+         family={Keplinger},
+         familyi={K\bibinitperiod},
+         given={Felix},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lauwerys},
+         familyi={L\bibinitperiod},
+         given={Christophe},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLAWKGHEKFEALC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{2023 IEEE/ACM 45th International Conference on Software
+  Engineering: Software Engineering in Practice (ICSE-SEIP)}
+    \verb{doi}
+    \verb 10.1109/ICSE-SEIP58684.2023.00028
+    \endverb
+    \field{pages}{246\bibrangedash 257}
+    \field{title}{Fulfilling Industrial Needs for Consistency Among Engineering
+  Artifacts}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Marchezan2022c}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kretschmer},
+         familyi={K\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AW}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={W.K.G.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Reder},
+         familyi={R\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Consistency checking,Inconsistency repair,Model-driven
+  engineering,Repair generation}
+    \strng{namehash}{ML+1}
+    \strng{fullhash}{MLKRAWRAEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    There are many repair alternatives for resolving model inconsistencies,
+  each involving one or more model changes. Enumerating them all could
+  overwhelm the developer because the number of possible repairs can grow
+  exponentially. To address this problem, this paper focuses on the immediate
+  cause of an inconsistency. By focusing on the cause, we can generate a repair
+  tree with a subset of repair actions focusing on fixing this cause. This
+  strategy identifies model elements that must be repaired, as opposed to
+  additional model elements that may or may not have to be repaired later.
+  Furthermore, our approach can provide an ownership-based filter for filtering
+  repairs that modify model elements not owned by a developer. This filtering
+  can further reduce the repair possibilities, aiding the developer when
+  choosing repairs to be performed. We evaluated our approach on 24 UML models
+  and four Java systems, using 17 UML consistency rules and 14 Java consistency
+  rules. The evaluation data contained 39,683 inconsistencies, showing our
+  approach’s usability as the repair trees sizes ranged from five to nine on
+  average per model. Also, these repair trees were generated in 0.3 seconds on
+  average, showing our approach’s scalability. Based on the results, we
+  discuss the correctness and minimalism with regard to the cause of the
+  inconsistency. Lastly, we evaluated the filtering mechanism, showing that it
+  is possible to further reduce the number of repairs generated by focusing on
+  ownership.%
+    }
+    \verb{doi}
+    \verb 10.1007/s10270-022-00996-0
+    \endverb
+    \field{issn}{16191374}
+    \field{title}{Generating repairs for inconsistent models}
+    \field{journaltitle}{Software and Systems Modeling}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Marchezan2022b}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AW}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={W.K.G.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={F.P.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Carbonell},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Snowballing,Software product line scoping,Software product
+  lines,Systematic literature review}
+    \strng{namehash}{ML+1}
+    \strng{fullhash}{MLREAWBMBFCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Software line (SPL) scoping aids companies to define the boundaries of
+  their resources such as products, domains, and assets, the target of reuse
+  tasks scoping technical and organizational aspects. As scoping guides the
+  management of the resources in SPL development, it becomes one of the core
+  activities in this process. We can find in the literature several approaches
+  on this topic, proposing techniques and methodologies to be applicable in
+  different organizational scenarios. However, no work comprehensively reviews
+  such approaches and describes the advances in state of the art in the last
+  years. In this context, we look into identifying, analyzing, and extracting
+  detailed characteristics from SPL scoping proposals found in the literature.
+  These characteristics allowed us to compare these approaches, reason about
+  their applicability, and identify existing limitations and research
+  opportunities. Thus, we conducted a systematic literature review alongside
+  snowballing, following a well-defined protocol to retrieve, classify and
+  extract information from the literature. We analyzed a total of 58 studies,
+  identifying 41 different approaches in the field, highlighting their
+  similarities and differences, and establishing a generic scoping process.
+  Furthermore, we discuss research opportunities in the SPL scoping field.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jss.2021.111189
+    \endverb
+    \field{issn}{01641212}
+    \field{title}{Software product line scoping: A systematic literature
+  review}
+    \field{volume}{186}
+    \field{journaltitle}{Journal of Systems and Software}
+    \field{year}{2022}
+  \endentry
+
+  \entry{CORP}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWKG}{%
+         family={Assuncao},
+         familyi={A\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=KR}{%
+         family={Kretschmer},
+         familyi={K\bibinitperiod},
+         given={Roland},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{Model-Driven Engineering, Inconsistency Repair, Conflict Detection,
+  Change Propagation}
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLAWKGKREA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Proceedings of the International Conference on Software
+  and System Processes and International Conference on Global Software
+  Engineering}
+    \verb{doi}
+    \verb 10.1145/3529320.3529330
+    \endverb
+    \field{isbn}{9781450396745}
+    \field{pages}{82–92}
+    \field{series}{ICSSP'22}
+    \field{title}{Change-Oriented Repair Propagation}
+    \verb{url}
+    \verb https://doi.org/10.1145/3529320.3529330
+    \endverb
+    \list{location}{1}{%
+      {Pittsburgh, PA, USA}%
+    }
+    \field{year}{2022}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{10.1145/3546932.3547015}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AaWKG}{%
+         family={Assun\c{c}\~{a}o},
+         familyi={A\bibinitperiod\bibinitdelim a\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+      {{hash=MG}{%
+         family={Michelon},
+         familyi={M\bibinitperiod},
+         given={Gabriela},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Herac},
+         familyi={H\bibinitperiod},
+         given={Edvin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{inconsistency repair, software product line, code smells, consistency
+  checking}
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLAaWKGMGHEEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Proceedings of the 26th ACM International Systems and
+  Software Product Line Conference - Volume A}
+    \verb{doi}
+    \verb 10.1145/3546932.3547015
+    \endverb
+    \field{isbn}{9781450394437}
+    \field{pages}{250–254}
+    \field{series}{SPLC '22}
+    \field{title}{Code Smell Analysis in Cloned Java Variants: The Apo-Games
+  Case Study}
+    \verb{url}
+    \verb https://doi.org/10.1145/3546932.3547015
+    \endverb
+    \list{location}{1}{%
+      {Graz, Austria}%
+    }
+    \field{year}{2022}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{marchezan2022paxspl}{incollection}{}{}
+    \name{author}{6}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Elder},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Carbonell},
+         familyi={C\bibinitperiod},
+         given={Jo{\~a}o},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={Maicon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BFP}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={F{\'a}bio\bibnamedelima Paulo},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}{\~a}o},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLRECJBMBFPAWK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Handbook of Re-Engineering Software Intensive Systems
+  into Software Product Lines}
+    \field{pages}{319\bibrangedash 353}
+    \field{title}{{PAxSPL: A Framework for Aiding SPL Reengineering Planning}}
+    \field{year}{2022}
+  \endentry
+
+  \entry{rodrigues2022plets}{incollection}{}{}
+    \name{author}{3}{}{%
+      {{hash=REM}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Elder\bibnamedelima M},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=ZAF}{%
+         family={Zorzo},
+         familyi={Z\bibinitperiod},
+         given={Avelino\bibnamedelima F},
+         giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{REM+1}
+    \strng{fullhash}{REMZAFML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{UML-Based Software Product Line Engineering with SMarty}
+    \field{pages}{315\bibrangedash 334}
+    \field{title}{{PLeTs: A Software Product Line for Testing Tools}}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Troels2022}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=TM}{%
+         family={Tröls},
+         familyi={T\bibinitperiod},
+         given={M.A.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mashkoor},
+         familyi={M\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Consistency checking,Model-driven engineering,Multi-developer
+  environment}
+    \strng{namehash}{TM+1}
+    \strng{fullhash}{TMMLMAEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Engineering projects involve a variety of artifacts such as requirements,
+  design, or source code. These artifacts, many of which tend to be
+  interdependent, are often manipulated concurrently. To keep artifacts
+  consistent, engineers must continuously consider their work in relation to
+  the work of multiple other engineers. Traditional consistency checking
+  approaches reason efficiently over artifact changes and their consistency
+  implications. However, they do so solely within the boundaries of specific
+  tools and their specific artifacts (e.g., consistency checking between
+  different UML models). This makes it difficult to examine the consistency
+  between different types of artifacts (e.g., consistency checking between UML
+  models and the source code). Global consistency checking can help addressing
+  this problem. However, it usually requires a disruptive and time-consuming
+  merging process for artifacts. This article presents a novel, cloud-based
+  approach to global consistency checking in a multi-developer/-tool
+  engineering environment. It allows for global consistency checking across all
+  artifacts that engineers work on concurrently. Moreover, it reasons over
+  artifact changes immediately after the change happened, while keeping the
+  (memory/CPU) cost of consistency checking minimal. The feasibility and
+  scalability of our approach were demonstrated by a prototype implementation
+  and through an empirical validation.%
+    }
+    \verb{doi}
+    \verb 10.1007/s10270-022-00984-4
+    \endverb
+    \field{issn}{16191374}
+    \field{issue}{6}
+    \field{title}{Instant and global consistency checking during collaborative
+  engineering}
+    \field{volume}{21}
+    \field{journaltitle}{Software and Systems Modeling}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Marchezan2021}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AW}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={W.K.G.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Carbonell},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{software product lines, automated support, reengineering process,
+  variability management}
+    \strng{namehash}{ML+1}
+    \strng{fullhash}{MLAWCJREBMBF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{15th Brazilian Symposium on Software Components,
+  Architectures, and Reuse}
+    \verb{doi}
+    \verb 10.1145/3483899.3483902
+    \endverb
+    \field{isbn}{9781450384193}
+    \field{pages}{1–10}
+    \field{series}{SBCARS '21}
+    \field{title}{{SPLReePlan - Automated Support for Software Product Line
+  Reengineering Planning}}
+    \list{location}{1}{%
+      {Joinville, Brazil}%
+    }
+    \field{year}{2021}
+  \endentry
+
+  \entry{Iung2020}{article}{}{}
+    \name{author}{7}{}{%
+      {{hash=IA}{%
+         family={Iung},
+         familyi={I\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Carbonell},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={F.P.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Medeiros},
+         familyi={M\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \keyw{DSL,DSL-supporting tools,Domain-specific language,Language
+  workbench,Model driven engineering,Systematic mapping study,Systematic
+  review}
+    \strng{namehash}{IA+1}
+    \strng{fullhash}{IACJMLREBMBFMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Domain-specific languages (DSL) are programming or modeling languages
+  devoted to a given application domain. There are many tools used to support
+  the implementation of a DSL, making hard the decision-making process for one
+  or another. In this sense, identifying and mapping their features is relevant
+  for decision-making by academic and industrial initiative on DSL development.
+  Objective: The goal of this work is to identify and map the tools, Language
+  Workbenches (LW), or frameworks that were proposed to develop DSLs discussed
+  and referenced in publications between 2012 and 2019. Method: A Systematic
+  Mapping Study (SMS) of the literature scoping tools for DSL development.
+  Results: We identified 59 tools, including 9 under a commercial license and
+  41 with non-commercial licenses, and analyzed their features from 230 papers.
+  Conclusion: There is a substantial amount of tools that cover a large number
+  of features. Furthermore, we observed that usually, the developer adopts one
+  type of notation to implement the DSL: textual or graphical. We also discuss
+  research gaps, such as a lack of tools that allow meta-meta model
+  transformations and that support modeling tools interoperability.%
+    }
+    \verb{doi}
+    \verb 10.1007/s10664-020-09872-1
+    \endverb
+    \field{issn}{15737616}
+    \field{issue}{5}
+    \field{title}{Systematic mapping study on domain-specific language
+  development tools}
+    \field{volume}{25}
+    \field{journaltitle}{Empirical Software Engineering}
+    \field{year}{2020}
+  \endentry
+
+  \entry{10.1145/3382026.3425767}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CJa}{%
+         family={Carbonell},
+         familyi={C\bibinitperiod},
+         given={Jo\~{a}o},
+         giveni={J\bibinitperiod\bibinitdelim a\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Elder},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={Maicon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BFP}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={F\'{a}bio\bibnamedelima Paulo},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=AaWKG}{%
+         family={Assun\c{c}\~{a}o},
+         familyi={A\bibinitperiod\bibinitdelim a\bibinitperiod},
+         given={Wesley K.\bibnamedelima G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{automated support, variability management, software product lines}
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLCJaREBMBFPAaWKG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Proceedings of the 24th ACM International Systems and
+  Software Product Line Conference - Volume B}
+    \verb{doi}
+    \verb 10.1145/3382026.3425767
+    \endverb
+    \field{isbn}{9781450375702}
+    \field{pages}{29–36}
+    \field{series}{SPLC '20}
+    \field{title}{{Enhancing the Feature Retrieval Process with Scoping and
+  Tool Support: PAxSPL\_v2}}
+    \verb{url}
+    \verb https://doi.org/10.1145/3382026.3425767
+    \endverb
+    \list{location}{1}{%
+      {Montreal, QC, Canada}%
+    }
+    \field{year}{2020}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{Marchezan2019b}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=REM}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={E.\bibnamedelima Macedo},
+         giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BFP}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={F.\bibnamedelima Paulo},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{feature model,feature retrieval,software product line,software
+  product line reengineering,software reengineering,software reuse}
+    \strng{namehash}{ML+1}
+    \strng{fullhash}{MLREMBMBFP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \verb{doi}
+    \verb 10.1002/spe.2707
+    \endverb
+    \field{issn}{1097024X}
+    \field{issue}{8}
+    \field{title}{{PAxSPL: A feature retrieval process for software product
+  line reengineering}}
+    \field{volume}{49}
+    \field{journaltitle}{Software - Practice and Experience}
+    \field{year}{2019}
+  \endentry
+
+  \entry{8870160}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BG}{%
+         family={Bolfe},
+         familyi={B\bibinitperiod},
+         given={Guilherme},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Elder},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={Maicon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BFP}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={Fábio\bibnamedelima Paulo},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLBGREBMBFP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{2019 ACM/IEEE International Symposium on Empirical
+  Software Engineering and Measurement (ESEM)}
+    \verb{doi}
+    \verb 10.1109/ESEM.2019.8870160
+    \endverb
+    \field{pages}{1\bibrangedash 6}
+    \field{title}{Thoth: A Web-based Tool to Support Systematic Reviews}
+    \field{year}{2019}
+  \endentry
+
+  \entry{marchezan2019customizable}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Elder},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={Maicon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BFP}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={F{\'a}bio\bibnamedelima Paulo},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {SBC}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLREBMBFP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Anais da III Escola Regional de Engenharia de Software}
+    \field{pages}{137\bibrangedash 146}
+    \field{title}{A customizable SPL scoping process for SPL reengineering}
+    \field{year}{2019}
+  \endentry
+
+  \entry{carbonelli2018analyzing}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=CJ}{%
+         family={Carbonell},
+         familyi={C\bibinitperiod},
+         given={Jo{\~a}o},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Neto},
+         familyi={N\bibinitperiod},
+         given={An{\'\i}bal},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Elder},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={Maicon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Yury},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {SBC}%
+    }
+    \strng{namehash}{CJ+1}
+    \strng{fullhash}{CJMLNAREBMLY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Anais da II Escola Regional de Engenharia de Software}
+    \field{pages}{33\bibrangedash 40}
+    \field{title}{Analyzing the Impact of the Search Phase in a Systematic
+  Mapping Study}
+    \field{year}{2018}
+  \endentry
+
+  \entry{10.1145/3194133.3194136}{inproceedings}{}{}
+    \name{author}{6}{}{%
+      {{hash=dSJaPS}{%
+         prefix={da},
+         prefixi={d\bibinitperiod},
+         family={Silva},
+         familyi={S\bibinitperiod},
+         given={Jo\~{a}o Pablo\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim
+  P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=EM}{%
+         family={Ecar},
+         familyi={E\bibinitperiod},
+         given={Miguel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=PMS}{%
+         family={Pimenta},
+         familyi={P\bibinitperiod},
+         given={Marcelo\bibnamedelima S.},
+         giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=GGTA}{%
+         family={Guedes},
+         familyi={G\bibinitperiod},
+         given={Gilleanes T.\bibnamedelima A.},
+         giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  A\bibinitperiod},
+      }}%
+      {{hash=FLP}{%
+         family={Franz},
+         familyi={F\bibinitperiod},
+         given={Luiz\bibnamedelima Paulo},
+         giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{domain-specific modeling language (DSML), systematic literature
+  review (SLR), unified modeling language (UML), self-adaptive systems (SaS),
+  snowballing technique}
+    \strng{namehash}{SJaPSd+1}
+    \strng{fullhash}{SJaPSdEMPMSGGTAFLPML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Proceedings of the 13th International Conference on
+  Software Engineering for Adaptive and Self-Managing Systems}
+    \verb{doi}
+    \verb 10.1145/3194133.3194136
+    \endverb
+    \field{isbn}{9781450357159}
+    \field{pages}{87–93}
+    \field{series}{SEAMS '18}
+    \field{title}{A Systematic Literature Review of UML-Based Domain-Specific
+  Modeling Languages for Self-Adaptive Systems}
+    \verb{url}
+    \verb https://doi.org/10.1145/3194133.3194136
+    \endverb
+    \list{location}{1}{%
+      {Gothenburg, Sweden}%
+    }
+    \field{year}{2018}
+    \warn{\item Can't use 'location' + 'address'}
+  \endentry
+
+  \entry{Bernardino2017}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={E.M.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=ZA}{%
+         family={Zorzo},
+         familyi={Z\bibinitperiod},
+         given={A.F.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BM+1}
+    \strng{fullhash}{BMREZAML1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Every year several contributions to the model-based testing (MBT) field are
+  published. Therefore, to follow the evolution and trends of several tools and
+  models available is difficult. Moreover, since the variety of models and
+  tools that became available in recent years, choosing an approach to support
+  the MBT process is a challenging activity. The main objective of this study
+  is to provide an overview on MBT tools and models used by those tools.
+  Furthermore, the authors' study can help academic researchers and companies
+  to understand the topics involving MBT. Therefore, a systematic mapping study
+  was conducted in which 1197 distinct papers were evaluated. At the end, 87
+  primary studies were selected to be analysed in a quantitative and
+  qualitative way. As a result, they classified the tools and models that are
+  currently used to support MBT. Moreover, they identified 70 MBT tools, as
+  well as different domains in which MBT is already applied to. Therefore,
+  there are some evidence that MBT continues to be a broad and 'alive' research
+  field since every year a significant number of papers presenting different
+  kinds of contributions are published.%
+    }
+    \verb{doi}
+    \verb 10.1049/iet-sen.2015.0154
+    \endverb
+    \field{issn}{17518806}
+    \field{issue}{4}
+    \field{title}{Systematic mapping study on MBT: Tools and models}
+    \field{volume}{11}
+    \field{journaltitle}{IET Software}
+    \field{year}{2017}
+  \endentry
+
+  \entry{marchezan2017towards}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Elder},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={Maicon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LM}{%
+         family={Laser},
+         familyi={L\bibinitperiod},
+         given={Marcelo},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=LF}{%
+         family={Lima},
+         familyi={L\bibinitperiod},
+         given={Fernando},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {SBC}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLREBMLMLF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Anais da I Escola Regional de Engenharia de Software}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{Towards a generic process for spl re-engineering}
+    \field{year}{2017}
+  \endentry
+\enddatalist
+\endinput
