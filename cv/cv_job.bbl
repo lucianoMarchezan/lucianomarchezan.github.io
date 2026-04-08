@@ -65,6 +65,61 @@
     \field{year}{2026}
   \endentry
 
+  \entry{marchezan2026dependency}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}{\~a}o},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Herac},
+         familyi={H\bibinitperiod},
+         given={Edvin},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Shafiq},
+         familyi={S\bibinitperiod},
+         given={Saad},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Knebel},
+         familyi={K\bibinitperiod},
+         given={Cristian},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLAWKHESSKCEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{pages}{1\bibrangedash 31}
+    \field{title}{Dependency-aware model repair: prioritizing repairs through
+  consistency rule and inconsistency analysis}
+    \field{journaltitle}{Software and Systems Modeling}
+    \field{year}{2026}
+  \endentry
+
   \entry{Desai2025}{inproceedings}{}{}
     \name{author}{5}{}{%
       {{hash=DSV}{%

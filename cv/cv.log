@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  19 DEC 2025 12:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  8 APR 2026 16:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1065,9 +1065,9 @@ LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/sc' will be
 
 {C:/Users/lamp6/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cabin/cbn_i3ioen.enc}{C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_mzvjrl.enc}{C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cochineal/coch_rftgut.enc} <./photo.jpg>]
 
-[2]) (teaching.tex) (teaching.tex) (teaching.tex) (teaching.tex
+[2]
 
-[3]) (grants.tex) (grants.tex) (grants.tex) (grants.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex [4])
+[3]) (teaching.tex) (teaching.tex) (teaching.tex) (teaching.tex) (grants.tex) (grants.tex) (grants.tex) (grants.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex [4])
 
 [5] (cv.aux)
  ***********
@@ -1081,17 +1081,17 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35224 strings out of 468130
- 699545 string characters out of 5430633
- 1521986 words of memory out of 5000000
- 63166 multiletter control sequences out of 15000+600000
+ 35231 strings out of 468130
+ 699908 string characters out of 5430633
+ 1523065 words of memory out of 5000000
+ 63172 multiletter control sequences out of 15000+600000
  885845 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1946b,1799s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (5 pages, 1165194 bytes).
+Output written on cv.pdf (5 pages, 1164867 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
+ 182 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
