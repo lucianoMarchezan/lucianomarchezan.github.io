@@ -1,0 +1,71 @@
+@article{marchezan2026dependency,
+  title={{Dependency-aware model repair: prioritizing repairs through consistency rule and inconsistency analysis}},
+  author={Marchezan, Luciano and Assun{\c{c}}{\~a}o, Wesley KG and Herac, Edvin and Shafiq, Saad and Knebel, Cristian and Egyed, Alexander},
+  journal={Software and Systems Modeling},
+  pages={1--31},
+  year={2026},
+  publisher={Springer},
+  doi = {https://doi.org/10.1007/s10270-026-01365-x},
+  abstract= {Inconsistencies in software models can lead to cascading problems during software evolution, including unmet requirements, increased defects, and reduced system reliability. To mitigate these problems, consistency maintenance (which combines consistency checking and repair) is essential. A common strategy relies on consistency rules (CRs), often expressed in languages such as the Object Constraint Language. However, defining and maintaining CRs is challenging due to a limited understanding of potential dependencies among CRs and the inconsistencies they detect. Moreover, once inconsistencies are repaired, these dependencies cause problems as repairs may have unwanted repercussions in other parts of the model. In this paper, we present a dependency-aware approach for identifying and analyzing relationships among CRs, inconsistencies, and repairs. We introduce a metamodel that captures these dependencies and enables automated analysis to group inconsistencies and prioritize repair alternatives based on overlapping and conflicting repair locations. Based on this analysis, our approach enables engineers to filter alternatives by prioritizing repairs with positive side effects (fixing multiple inconsistencies) and deprioritizing those with negative ones (introducing new inconsistencies). We evaluate our approach using 27 CRs and 50 UML models of varying sizes and domains. On average, 79% of inconsistencies exhibited dependencies. Repair prioritization showed that high-priority repairs resolved more inconsistencies (90 per repair on average), while low-priority repairs introduced fewer negative side effects (11 per repair on average). These findings highlight the potential of leveraging dependency analysis to guide and optimize model repair strategies, ultimately improving the effectiveness of consistency maintenance in software modeling.},
+  note = {extends a paper that got a distiguished paper award at SANER 2024, it comprises the main contributions of my phd thesis}
+
+}
+
+@article{Iung2020,
+   abstract = {Domain-specific languages (DSL) are programming or modeling languages devoted to a given application domain. There are many tools used to support the implementation of a DSL, making hard the decision-making process for one or another. In this sense, identifying and mapping their features is relevant for decision-making by academic and industrial initiative on DSL development. Objective: The goal of this work is to identify and map the tools, Language Workbenches (LW), or frameworks that were proposed to develop DSLs discussed and referenced in publications between 2012 and 2019. Method: A Systematic Mapping Study (SMS) of the literature scoping tools for DSL development. Results: We identified 59 tools, including 9 under a commercial license and 41 with non-commercial licenses, and analyzed their features from 230 papers. Conclusion: There is a substantial amount of tools that cover a large number of features. Furthermore, we observed that usually, the developer adopts one type of notation to implement the DSL: textual or graphical. We also discuss research gaps, such as a lack of tools that allow meta-meta model transformations and that support modeling tools interoperability.},
+   author = {A. Iung and J. Carbonell and L. Marchezan and E. Rodrigues and M. Bernardino and F.P. Basso and B. Medeiros},
+   doi = {10.1007/s10664-020-09872-1},
+   issn = {15737616},
+   issue = {5},
+   journal = {Empirical Software Engineering},
+   keywords = {DSL,DSL-supporting tools,Domain-specific language,Language workbench,Model driven engineering,Systematic mapping study,Systematic review},
+   title = {Systematic mapping study on domain-specific language development tools},
+   volume = {25},
+   year = {2020},
+   note = {cited by 112}
+}.
+
+@article{Assuncao2024,
+author = {Assun\c{c}\~{a}o, Wesley K. G. and Marchezan, Luciano and Arkoh, Lawrence and Egyed, Alexander and Ramler, Rudolf},
+title = {Contemporary Software Modernization: Strategies, Driving Forces, and Research Opportunities},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3708527},
+doi = {10.1145/3708527},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = dec,
+keywords = {Software Evolution, Software Migration, Re-designing, Re-engineering}
+abstract = {Software modernization is a common activity in software engineering, since technologies advance, requirements change, and business models evolve. Differently from conventional software evolution (e.g., adding new features, enhancing performance, or adapting to new requirements), software modernization involves re-engineering entire legacy systems (e.g., changing the technology stack, migrating to a new architecture style, or programming paradigms). Given the pervasive nature of software today, modernizing legacy systems is paramount to provide customers with competitive and innovative products and services, while keeping companies profitable. Despite the prevalent discussion of software modernization in gray literature, and the many papers in the literature, there is no work presenting a “big picture” of contemporary software modernization, describing challenges, and providing a well-defined research agenda. The goal of this work is to describe the state of the art in software modernization in the past 10 years. We collect the state of the art by performing a rapid review (searching five digital libraries), identifying potential 3,460 studies, leading to a final set of 126. We analyzed these studies to understand which strategies are employed, the driving forces that lead organizations to modernize their systems, and the challenges that need to be addressed. The results show that studies in the last 10 years have explored eight strategies for modernizing legacy systems, namely cloudification, architecture redesign, moving to a new programming language, targeting reuse optimization, software modernization for new hardware integration, practices to leverage automation, database modernization, and digital transformation. Modernization is triggered by 14 driving forces, with the most common ones being reducing operational costs, improving performance and scalability, and reducing complexity. In addition, based on the analysis of existing literature, we present a detailed discussion of research opportunities in this field. The main challenges are providing tooling support, followed by defining a modernization process and considering better evaluation metrics. The main contribution of our work is to equip practitioners and researchers with knowledge of the current state of contemporary software modernization so that they are aware of practices and challenges to be addressed when deciding to modernize legacy systems},
+note = {cited by 23}
+}
+
+
+@INPROCEEDINGS{SEIP,
+  author={Marchezan, Luciano and Assunção, Wesley K. G. and Herac, Edvin and Keplinger, Felix and Egyed, Alexander and Lauwerys, Christophe},
+  booktitle={2023 IEEE/ACM 45th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)}, 
+  title={Fulfilling Industrial Needs for Consistency Among Engineering Artifacts}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={246-257},
+  doi={10.1109/ICSE-SEIP58684.2023.00028},
+  note ={showcases an industrial application of the work from my phd. cited by 13},
+  abstract={Maintaining the consistency of engineering artifacts is a challenge faced by several engineering companies. This is more evident when the engineering artifacts are created using different tools and have different formats. This is the context of a company that builds agricultural machines, where components are developed using a decentralized iterative process. In this study, we present an approach developed in collaboration with an industry partner to address the issues and requirements of a real engineering scenario. These issues include the manual execution of consistency checking, without guidelines that formalize the activity. Furthermore, the industry partner aims at a flexible solution that can be applied without disrupting the current development process significantly. The proposed approach applies consistency rules (CR) defined to automatically detect and provide inconsistency feedback to engineers in real-time. The approach presented in this work also allows the customization of the CRs, giving flexibility to how the consistency checking is applied. The feasibility of our approach is demonstrated in such an industrial scenario, with a discussion about how the issues were addressed and the limitations of the current solution. We also perform a scalability evaluation showing that the approach can be applied in large systems (up to 21,061 elements) in a reasonable amount of time, taking less than 0.25 milliseconds to apply a CR, in the worst cases.}
+  
+  }
+
+
+@article{Marchezan2022b,
+   abstract = {Software line (SPL) scoping aids companies to define the boundaries of their resources such as products, domains, and assets, the target of reuse tasks scoping technical and organizational aspects. As scoping guides the management of the resources in SPL development, it becomes one of the core activities in this process. We can find in the literature several approaches on this topic, proposing techniques and methodologies to be applicable in different organizational scenarios. However, no work comprehensively reviews such approaches and describes the advances in state of the art in the last years. In this context, we look into identifying, analyzing, and extracting detailed characteristics from SPL scoping proposals found in the literature. These characteristics allowed us to compare these approaches, reason about their applicability, and identify existing limitations and research opportunities. Thus, we conducted a systematic literature review alongside snowballing, following a well-defined protocol to retrieve, classify and extract information from the literature. We analyzed a total of 58 studies, identifying 41 different approaches in the field, highlighting their similarities and differences, and establishing a generic scoping process. Furthermore, we discuss research opportunities in the SPL scoping field.},
+   author = {Luciano Marchezan and Elder Rodrigues and Wesley K.G. Assunção and Maicon Bernardino and Fabio P. Basso and Joao Carbonell},
+   doi = {10.1016/j.jss.2021.111189},
+   issn = {01641212},
+   journal = {Journal of Systems and Software},
+   keywords = {Snowballing,Software product line scoping,Software product lines,Systematic literature review},
+   title = {Software product line scoping: A systematic literature review},
+   volume = {186},
+   year = {2022},
+   note = {cited by 23, is has been used as a reference as the contemporary defintion of SPL scoping process and its phases}
+}

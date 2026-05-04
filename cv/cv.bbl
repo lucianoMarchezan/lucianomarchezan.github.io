@@ -17,6 +17,45 @@
 \endgroup
 
 \datalist[entry]{ydnt/global//global/global/global}
+  \entry{Marchezan2026Returning}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=HM}{%
+         family={Homolka},
+         familyi={H\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}{\~a}o},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HM+1}
+    \strng{fullhash}{HMMLAWKEA3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{title}{{Returning from the Past, Back to the Future - Incrementally
+  Reconstructing and Recommending a Metamodel History}}
+    \field{journaltitle}{Under review}
+    \field{year}{2026}
+  \endentry
+
   \entry{homolka2026really}{article}{}{}
     \name{author}{4}{}{%
       {{hash=HM}{%
@@ -117,9 +156,214 @@
     \verb https://doi.org/10.1007/s10270-026-01365-x
     \endverb
     \field{pages}{1\bibrangedash 31}
-    \field{title}{Dependency-aware model repair: prioritizing repairs through
-  consistency rule and inconsistency analysis}
+    \field{title}{{Dependency-aware model repair: prioritizing repairs through
+  consistency rule and inconsistency analysis}}
     \field{journaltitle}{Software and Systems Modeling}
+    \field{year}{2026}
+  \endentry
+
+  \entry{Marchezan2026VicReg}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Delcourt},
+         familyi={D\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sahraoui},
+         familyi={S\bibinitperiod},
+         given={Houari},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLDKSESH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Under review}
+    \field{title}{{Type-IV Code Clone Detection via Layer-Wise Non-Contrastive
+  Representation Learning}}
+    \field{year}{2026}
+  \endentry
+
+  \entry{Marchezan2026MetaVole}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SF}{%
+         family={Schepens},
+         familyi={S\bibinitperiod},
+         given={Famelis},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Michalis},
+         familyi={M\bibinitperiod},
+         given={Hanz},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLSFMHSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{title}{{Variability-Oriented Engineering of DSML Families}}
+    \field{journaltitle}{Under review}
+    \field{year}{2026}
+  \endentry
+
+  \entry{Marchezan2026Kamino}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Delcourt},
+         familyi={D\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sahraoui},
+         familyi={S\bibinitperiod},
+         given={Houari},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLSEDKSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{Under review}
+    \field{title}{{Automated Type-IV Clone Generation via LLMs and
+  Deterministic Validation}}
+    \field{year}{2026}
+  \endentry
+
+  \entry{Marchezan2026NeoModeling}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=VN}{%
+         family={Vitalii},
+         familyi={V\bibinitperiod},
+         given={Nikitchyn},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLVNSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{title}{{NeoModeling Framework: Leveraging Graph-Based Persistence
+  for Large-Scale Model-Driven Engineering}}
+    \field{journaltitle}{Under review}
+    \field{year}{2026}
+  \endentry
+
+  \entry{Marchezan2026TOSEM}{article}{}{}
+    \name{author}{7}{}{%
+      {{hash=SS}{%
+         family={Shafiq},
+         familyi={S\bibinitperiod},
+         given={Saad},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AW}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={Wesley},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Mashkoor},
+         familyi={M\bibinitperiod},
+         given={Atif},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MdC}{%
+         family={Mayr-dorn},
+         familyi={M\bibinithyphendelim d\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={Medvidovic},
+         familyi={M\bibinitperiod},
+         given={Nenad},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS+1}
+    \strng{fullhash}{SSMLAWMAMdCMNEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{title}{{Recommending Refactoring Operations to Support Bug Fixing}}
+    \field{journaltitle}{Under review}
     \field{year}{2026}
   \endentry
 
@@ -165,8 +409,8 @@
     \field{sortinithash}{7}
     \field{booktitle}{40th IEEE/ACM International Conference on Automated
   Software Engineering (ASE): Tool Demonstration}
-    \field{title}{PrioTestCI: Efficient Test Case Prioritization in GitHub
-  Workflows for CI Optimization}
+    \field{title}{{PrioTestCI: Efficient Test Case Prioritization in GitHub
+  Workflows for CI Optimization}}
     \field{year}{2025}
   \endentry
 
@@ -934,84 +1178,6 @@
     \field{year}{2022}
   \endentry
 
-  \entry{Marchezan2022b}{article}{}{}
-    \name{author}{6}{}{%
-      {{hash=ML}{%
-         family={Marchezan},
-         familyi={M\bibinitperiod},
-         given={L.},
-         giveni={L\bibinitperiod},
-      }}%
-      {{hash=RE}{%
-         family={Rodrigues},
-         familyi={R\bibinitperiod},
-         given={E.},
-         giveni={E\bibinitperiod},
-      }}%
-      {{hash=AW}{%
-         family={Assunção},
-         familyi={A\bibinitperiod},
-         given={W.K.G.},
-         giveni={W\bibinitperiod},
-      }}%
-      {{hash=BM}{%
-         family={Bernardino},
-         familyi={B\bibinitperiod},
-         given={M.},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=BF}{%
-         family={Basso},
-         familyi={B\bibinitperiod},
-         given={F.P.},
-         giveni={F\bibinitperiod},
-      }}%
-      {{hash=CJ}{%
-         family={Carbonell},
-         familyi={C\bibinitperiod},
-         given={J.},
-         giveni={J\bibinitperiod},
-      }}%
-    }
-    \keyw{Snowballing,Software product line scoping,Software product
-  lines,Systematic literature review}
-    \strng{namehash}{ML+1}
-    \strng{fullhash}{MLREAWBMBFCJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{7}
-    \field{sortinithash}{7}
-    \field{abstract}{%
-    Software line (SPL) scoping aids companies to define the boundaries of
-  their resources such as products, domains, and assets, the target of reuse
-  tasks scoping technical and organizational aspects. As scoping guides the
-  management of the resources in SPL development, it becomes one of the core
-  activities in this process. We can find in the literature several approaches
-  on this topic, proposing techniques and methodologies to be applicable in
-  different organizational scenarios. However, no work comprehensively reviews
-  such approaches and describes the advances in state of the art in the last
-  years. In this context, we look into identifying, analyzing, and extracting
-  detailed characteristics from SPL scoping proposals found in the literature.
-  These characteristics allowed us to compare these approaches, reason about
-  their applicability, and identify existing limitations and research
-  opportunities. Thus, we conducted a systematic literature review alongside
-  snowballing, following a well-defined protocol to retrieve, classify and
-  extract information from the literature. We analyzed a total of 58 studies,
-  identifying 41 different approaches in the field, highlighting their
-  similarities and differences, and establishing a generic scoping process.
-  Furthermore, we discuss research opportunities in the SPL scoping field.%
-    }
-    \verb{doi}
-    \verb 10.1016/j.jss.2021.111189
-    \endverb
-    \field{issn}{01641212}
-    \field{title}{Software product line scoping: A systematic literature
-  review}
-    \field{volume}{186}
-    \field{journaltitle}{Journal of Systems and Software}
-    \field{year}{2022}
-  \endentry
-
   \entry{CORP}{inproceedings}{}{}
     \name{author}{4}{}{%
       {{hash=ML}{%
@@ -1136,6 +1302,84 @@
     \warn{\item Can't use 'location' + 'address'}
   \endentry
 
+  \entry{Marchezan2022b}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RE}{%
+         family={Rodrigues},
+         familyi={R\bibinitperiod},
+         given={Elder},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assunção},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima K.G.},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Bernardino},
+         familyi={B\bibinitperiod},
+         given={Maicon},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BFP}{%
+         family={Basso},
+         familyi={B\bibinitperiod},
+         given={Fabio\bibnamedelima P.},
+         giveni={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Carbonell},
+         familyi={C\bibinitperiod},
+         given={Joao},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Snowballing,Software product line scoping,Software product
+  lines,Systematic literature review}
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLREAWKBMBFPCJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Software line (SPL) scoping aids companies to define the boundaries of
+  their resources such as products, domains, and assets, the target of reuse
+  tasks scoping technical and organizational aspects. As scoping guides the
+  management of the resources in SPL development, it becomes one of the core
+  activities in this process. We can find in the literature several approaches
+  on this topic, proposing techniques and methodologies to be applicable in
+  different organizational scenarios. However, no work comprehensively reviews
+  such approaches and describes the advances in state of the art in the last
+  years. In this context, we look into identifying, analyzing, and extracting
+  detailed characteristics from SPL scoping proposals found in the literature.
+  These characteristics allowed us to compare these approaches, reason about
+  their applicability, and identify existing limitations and research
+  opportunities. Thus, we conducted a systematic literature review alongside
+  snowballing, following a well-defined protocol to retrieve, classify and
+  extract information from the literature. We analyzed a total of 58 studies,
+  identifying 41 different approaches in the field, highlighting their
+  similarities and differences, and establishing a generic scoping process.
+  Furthermore, we discuss research opportunities in the SPL scoping field.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jss.2021.111189
+    \endverb
+    \field{issn}{01641212}
+    \field{title}{Software product line scoping: A systematic literature
+  review}
+    \field{volume}{186}
+    \field{journaltitle}{Journal of Systems and Software}
+    \field{year}{2022}
+  \endentry
+
   \entry{marchezan2022paxspl}{incollection}{}{}
     \name{author}{6}{}{%
       {{hash=ML}{%
@@ -1229,35 +1473,35 @@
 
   \entry{Troels2022}{article}{}{}
     \name{author}{4}{}{%
-      {{hash=TM}{%
+      {{hash=TMA}{%
          family={Tröls},
          familyi={T\bibinitperiod},
-         given={M.A.},
-         giveni={M\bibinitperiod},
+         given={Micahel\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
       {{hash=ML}{%
          family={Marchezan},
          familyi={M\bibinitperiod},
-         given={L.},
+         given={Luciano},
          giveni={L\bibinitperiod},
       }}%
       {{hash=MA}{%
          family={Mashkoor},
          familyi={M\bibinitperiod},
-         given={A.},
+         given={Atif},
          giveni={A\bibinitperiod},
       }}%
       {{hash=EA}{%
          family={Egyed},
          familyi={E\bibinitperiod},
-         given={A.},
+         given={Alexander},
          giveni={A\bibinitperiod},
       }}%
     }
     \keyw{Consistency checking,Model-driven engineering,Multi-developer
   environment}
-    \strng{namehash}{TM+1}
-    \strng{fullhash}{TMMLMAEA1}
+    \strng{namehash}{TMA+1}
+    \strng{fullhash}{TMAMLMAEA1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
