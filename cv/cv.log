@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  4 MAY 2026 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  11 MAY 2026 12:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -951,22 +951,22 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
  (cv.bbl
-LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 57.
+LaTeX Font Info:    Trying to load font information for T1+Cabin-TLF on input line 66.
  (C:\Users\lamp6\AppData\Local\Programs\MiKTeX\tex/latex/cabin\t1cabin-tlf.fd
 File: T1Cabin-TLF.fd 2020/07/15 (autoinst) Font definitions for T1/Cabin-TLF.
 )
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' aliased to
-(Font)              `T1/Cabin-TLF/regular/n' on input line 57.
+(Font)              `T1/Cabin-TLF/regular/n' on input line 66.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 57.
+(Font)              scaled to size 10.95pt on input line 66.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/m/n' aliased to
-(Font)              `T1/Cabin-TLF/regular/n' on input line 57.
+(Font)              `T1/Cabin-TLF/regular/n' on input line 66.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 57.
+(Font)              scaled to size 8.0pt on input line 66.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/b/n' aliased to
-(Font)              `T1/Cabin-TLF/bold/n' on input line 57.
+(Font)              `T1/Cabin-TLF/bold/n' on input line 66.
 LaTeX Font Info:    Font shape `T1/Cabin-TLF/bold/n' will be
-(Font)              scaled to size 8.0pt on input line 57.
+(Font)              scaled to size 8.0pt on input line 66.
 
 
 Package biblatex Warning: BibTeX reported the following issues
@@ -1067,7 +1067,9 @@ LaTeX Font Info:    Font shape `T1/Cochineal-OsF/m/sc' will be
 
 [2]
 
-[3]) (teaching.tex) (teaching.tex) (teaching.tex) (teaching.tex) (grants.tex) (grants.tex) (grants.tex) (grants.tex [4]) (misc.tex) (misc.tex) (misc.tex) (misc.tex [5]) (referee.tex)
+[3]) (teaching.tex) (teaching.tex) (teaching.tex) (teaching.tex) (grants.tex) (grants.tex) (grants.tex) (grants.tex) (misc.tex) (misc.tex) (misc.tex) (misc.tex [4]) (referee.tex)
+
+[5]
 
 [6] (cv.aux)
  ***********
@@ -1081,17 +1083,17 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35287 strings out of 468130
- 702234 string characters out of 5430633
- 1522634 words of memory out of 5000000
- 63218 multiletter control sequences out of 15000+600000
+ 35245 strings out of 468130
+ 700161 string characters out of 5430633
+ 1523175 words of memory out of 5000000
+ 63182 multiletter control sequences out of 15000+600000
  885845 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,101p,1946b,1799s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/impallari/cabin/Cabin-Bold.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Bold.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Italic.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/cochineal/Cochineal-Roman.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><C:/Users/lamp6/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (6 pages, 1168850 bytes).
+Output written on cv.pdf (6 pages, 1166313 bytes).
 PDF statistics:
- 193 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
  120 words of extra memory for PDF output out of 10000 (max. 10000000)
 
