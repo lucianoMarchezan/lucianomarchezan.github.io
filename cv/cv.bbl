@@ -123,6 +123,47 @@
     \field{year}{2026}
   \endentry
 
+  \entry{Marchezan2026Kamino}{inproceedings}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Delcourt},
+         familyi={D\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sahraoui},
+         familyi={S\bibinitperiod},
+         given={Houari},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLSEDKSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{booktitle}{35th SIGSOFT International Symposium on Software Testing
+  and Analysis (ISSTA 2026)}
+    \field{note}{Just Accepted}
+    \field{title}{{Automated Type-IV Clone Generation via LLMs and
+  Deterministic Validation}}
+    \field{year}{2026}
+  \endentry
+
   \entry{Desai2025}{inproceedings}{}{}
     \name{author}{5}{}{%
       {{hash=DSV}{%
