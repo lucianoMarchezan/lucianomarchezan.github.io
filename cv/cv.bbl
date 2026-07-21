@@ -158,9 +158,46 @@
     \field{sortinithash}{7}
     \field{booktitle}{35th SIGSOFT International Symposium on Software Testing
   and Analysis (ISSTA 2026)}
+    \verb{doi}
+    \verb 10.1145/3832153
+    \endverb
     \field{note}{Just Accepted}
     \field{title}{{Automated Type-IV Clone Generation via LLMs and
   Deterministic Validation}}
+    \field{year}{2026}
+  \endentry
+
+  \entry{Marchezan2026NeoModeling}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=VN}{%
+         family={Vitalii},
+         familyi={V\bibinitperiod},
+         given={Nikitchyn},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLVNSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{note}{Just accepted}
+    \field{title}{{NeoModeling Framework: Leveraging Graph-Based Persistence
+  for Large-Scale Model-Driven Engineering}}
+    \field{journaltitle}{Software and Systems Modeling}
     \field{year}{2026}
   \endentry
 
