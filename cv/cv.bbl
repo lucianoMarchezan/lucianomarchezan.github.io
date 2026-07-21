@@ -121,6 +121,7 @@
   consistency rule and inconsistency analysis}}
     \field{journaltitle}{Software and Systems Modeling}
     \field{year}{2026}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Marchezan2026Kamino}{inproceedings}{}{}
@@ -164,7 +165,11 @@
     \field{note}{Just Accepted}
     \field{title}{{Automated Type-IV Clone Generation via LLMs and
   Deterministic Validation}}
+    \verb{url}
+    \verb /preprints/2026_ISSTA_KaminoDatasetGenerator_Marchezan.pdf
+    \endverb
     \field{year}{2026}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Marchezan2026NeoModeling}{article}{}{}
@@ -199,6 +204,7 @@
   for Large-Scale Model-Driven Engineering}}
     \field{journaltitle}{Software and Systems Modeling}
     \field{year}{2026}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Desai2025}{inproceedings}{}{}

@@ -278,7 +278,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-scholar
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -323,13 +322,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-scholar:
-  source: ./cv
-  bibliography: own-bib.bib
-
-  style: ieee
-  locale: en
-
-  sort_by: year
-  order: descending

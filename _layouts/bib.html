@@ -1,0 +1,13 @@
+{{ reference }}
+
+{% if entry.pdf %}
+[<a href="{{ entry.pdf }}">PDF</a>]
+{% endif %}
+
+{% if entry.code %}
+[<a href="{{ entry.code }}">Code</a>]
+{% endif %}
+
+{% if entry.doi %}
+[<a href="https://doi.org/{{ entry.doi }}">DOI</a>]
+{% endif %}
