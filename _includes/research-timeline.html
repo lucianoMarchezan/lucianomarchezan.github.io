@@ -1,7 +1,7 @@
 <section class="research-timeline" aria-labelledby="research-career">
   <h2 id="research-career">Research career</h2>
   <ol class="research-timeline__list" role="list">
-    {% for milestone in site.data.research_career %}
+    {% for milestone in site.data.research_career reversed %}
       <li class="research-timeline__entry">
         <p class="research-timeline__period">{{ milestone.period | escape }}</p>
         <h3>
