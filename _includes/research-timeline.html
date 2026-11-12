@@ -1,0 +1,21 @@
+<section class="research-timeline" aria-labelledby="research-career">
+  <h2 id="research-career">Research career</h2>
+  <ol class="research-timeline__list" role="list">
+    {% for milestone in site.data.research_career %}
+      <li class="research-timeline__entry">
+        <p class="research-timeline__period">{{ milestone.period | escape }}</p>
+        <h3>
+          {% if milestone.url %}
+            <a href="{{ milestone.url | escape }}">{{ milestone.institution | escape }}</a>
+          {% else %}
+            {{ milestone.institution | escape }}
+          {% endif %}
+        </h3>
+        <p class="research-timeline__role">{{ milestone.role | escape }}</p>
+        {% if milestone.group %}
+          <p class="research-timeline__group">{{ milestone.group | escape }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ol>
+</section>

@@ -1,0 +1,52 @@
+.page__content .research-timeline {
+  margin-top: 2.5rem;
+
+  &__list {
+    list-style: none;
+    margin: 1.5rem 0 0 0.3rem;
+    padding: 0;
+  }
+
+  &__entry {
+    position: relative;
+    margin: 0;
+    padding: 0 0 1.5rem 1.15rem;
+    border-inline-start: 1px solid $light-gray;
+
+    &::before {
+      position: absolute;
+      inset-inline-start: -0.3rem;
+      top: 0.3rem;
+      width: 0.55rem;
+      height: 0.55rem;
+      border-radius: 50%;
+      background-color: $link-color;
+      content: "";
+    }
+
+    &:last-child {
+      padding-bottom: 0;
+      border-inline-start-color: transparent;
+    }
+
+    h3 {
+      margin: 0 0 0.2rem;
+      font-size: $type-size-5;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  &__period,
+  &__group {
+    color: $gray;
+    font-size: 0.875em;
+  }
+
+  &__period {
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+}

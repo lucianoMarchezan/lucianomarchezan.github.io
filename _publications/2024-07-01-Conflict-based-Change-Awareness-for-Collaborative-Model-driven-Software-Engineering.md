@@ -6,7 +6,7 @@ excerpt: 'The 20th European Conference on Modelling Foundations and Applications
 date: 2024-07-01
 venue: 'Journal of Object Technology'
 paperurl: 'http://www.jot.fm/contents/issue_2024_03/article7.html'
-citation: ' Edvin Herac,  Luciano Marchezan,  Wesley Assunção,  Alexander Egyed, &quot;Conflict-based Change Awareness for Collaborative Model-driven Software Engineering.&quot; Journal of Object Technology, 2024.'
+citation: ' Edvin Herac,  Luciano Marchezan,  Wesley AssunÃ§Ã£o,  Alexander Egyed, &quot;Conflict-based Change Awareness for Collaborative Model-driven Software Engineering.&quot; Journal of Object Technology, 2024.'
 ---
 The 20th European Conference on Modelling Foundations and Applications (ECMFA 2024)
 
