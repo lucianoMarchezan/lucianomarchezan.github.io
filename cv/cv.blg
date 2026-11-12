@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: cv.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
@@ -26,44 +26,44 @@ Reallocating 'field_info' (item size: 4) to 10040 items.
 Biblatex version: 3.21
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 36 entries,
+You've used 42 entries,
             6402 wiz_defined-function locations,
-            1484 strings with 28788 characters,
-and the built_in function-call counts, 523785 in all, are:
-= -- 42907
-> -- 14418
-< -- 1996
-+ -- 23370
-- -- 10785
-* -- 38922
-:= -- 67598
+            1520 strings with 33751 characters,
+and the built_in function-call counts, 603743 in all, are:
+= -- 49234
+> -- 16938
+< -- 2420
++ -- 27190
+- -- 12590
+* -- 44391
+:= -- 77595
 add.period$ -- 0
-call.type$ -- 36
-change.case$ -- 751
-chr.to.int$ -- 489
-cite$ -- 70
-duplicate$ -- 47880
-empty$ -- 39793
-format.name$ -- 3756
-if$ -- 97909
+call.type$ -- 42
+change.case$ -- 974
+chr.to.int$ -- 572
+cite$ -- 82
+duplicate$ -- 55771
+empty$ -- 45636
+format.name$ -- 4364
+if$ -- 112831
 int.to.chr$ -- 0
-int.to.str$ -- 151
+int.to.str$ -- 182
 missing$ -- 0
-newline$ -- 1805
-num.names$ -- 1978
-pop$ -- 14279
+newline$ -- 2107
+num.names$ -- 2423
+pop$ -- 16666
 preamble$ -- 1
-purify$ -- 1124
+purify$ -- 1405
 quote$ -- 0
-skip$ -- 8638
+skip$ -- 10335
 stack$ -- 0
-substring$ -- 85711
-swap$ -- 7772
-text.length$ -- 1560
-text.prefix$ -- 35
+substring$ -- 97304
+swap$ -- 9186
+text.length$ -- 1811
+text.prefix$ -- 41
 top$ -- 1
-type$ -- 1212
+type$ -- 1416
 warning$ -- 0
-while$ -- 7068
+while$ -- 8169
 width$ -- 0
-write$ -- 1770
+write$ -- 2066

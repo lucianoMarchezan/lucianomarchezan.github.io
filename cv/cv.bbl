@@ -17,6 +17,133 @@
 \endgroup
 
 \datalist[entry]{ydnt/global//global/global/global}
+  \entry{10.1145/3822455.3838768}{inproceedings}{}{}
+    \name{author}{5}{}{%
+      {{hash=DK}{%
+         family={Delcourt},
+         familyi={D\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BCM}{%
+         family={Ben\bibnamedelima Chaaben},
+         familyi={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Meriem},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rouatbi},
+         familyi={R\bibinitperiod},
+         given={Abdelhamid},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sahraoui},
+         familyi={S\bibinitperiod},
+         given={Houari},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{mutation testing, LLM-as-a-judge, large language models, model-driven
+  engineering}
+    \strng{namehash}{DK+1}
+    \strng{fullhash}{DKBCMRAMLSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    In software engineering, many semantic modeling tasks lack a unique ground
+  truth, as human judgments are both costly and subjective. This paper explores
+  mutation testing as a scalable alternative for evaluating semantic judges
+  (e.g., LLM-based) of models. We propose a mutation testing approach in which
+  controlled semantic defects are injected into domain class diagrams. Starting
+  from pairs of PlantUML class diagrams and textual system descriptions, we
+  apply mutation operators (e.g., removing a class) to generate faulty
+  variants. A candidate judge is then evaluated based on its ability to detect
+  the injected defects. We define 11 mutation operators for the task of
+  comparing a domain class diagram against a textual description and evaluate
+  the proposed approach against a conventional manual assessment of judgment
+  validity. Across six judge configurations (three LLMs and two prompt
+  variants), the automated mutation testing approach is largely consistent with
+  the manual assessment in identifying the better-performing configurations.
+  The results suggest that mutation testing may serve as a scalable proxy for
+  analyzing semantic judges.%
+    }
+    \field{booktitle}{Proceedings of the ACM/IEEE 29th International Conference
+  on Model Driven Engineering Languages and Systems}
+    \verb{doi}
+    \verb 10.1145/3822455.3838768
+    \endverb
+    \field{isbn}{9798400728099}
+    \field{pages}{400–406}
+    \field{series}{MODELS '26}
+    \field{title}{{Breaking Models to Test the Judge: A Mutation Testing
+  Approach for Semantic Evaluators of Domain Class Diagrams}}
+    \verb{url}
+    \verb https://doi.org/10.1145/3822455.3838768
+    \endverb
+    \list{location}{1}{%
+      {M{\'a}laga, Spain}%
+    }
+    \field{year}{2026}
+    \warn{\item Can't use 'location' + 'address' \item Invalid format of field
+  'month'}
+  \endentry
+
+  \entry{homolka2026returning}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=HM}{%
+         family={Homolka},
+         familyi={H\bibinitperiod},
+         given={Marcel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AWK}{%
+         family={Assun{\c{c}}{\~a}o},
+         familyi={A\bibinitperiod},
+         given={Wesley\bibnamedelima KG},
+         giveni={W\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=EA}{%
+         family={Egyed},
+         familyi={E\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{HM+1}
+    \strng{fullhash}{HMMLAWKEA3}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{pages}{1\bibrangedash 30}
+    \field{title}{{Returning from the past, back to the future: Incrementally
+  reconstructing and recommending a metamodel history}}
+    \field{journaltitle}{Software and Systems Modeling}
+    \field{year}{2026}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
   \entry{homolka2026really}{article}{}{}
     \name{author}{4}{}{%
       {{hash=HM}{%
@@ -63,6 +190,123 @@
     \field{volume}{31}
     \field{journaltitle}{Empirical Software Engineering}
     \field{year}{2026}
+  \endentry
+
+  \entry{kumar2026benchmark}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=KG}{%
+         family={Kumar},
+         familyi={K\bibinitperiod},
+         given={Gauransh},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Genois},
+         familyi={G\bibinitperiod},
+         given={Guillaume},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Delcourt},
+         familyi={D\bibinitperiod},
+         given={K{\'e}vin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KG+1}
+    \strng{fullhash}{KGMLGGDKSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{title}{{A Benchmark Framework for Screening Automation in Systematic
+  Reviews}}
+    \field{journaltitle}{arXiv preprint arXiv:2609.30298}
+    \field{year}{2026}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{10.1145/3837062.3838722}{inproceedings}{}{}
+    \name{author}{3}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AH}{%
+         family={Ali},
+         familyi={A\bibinitperiod},
+         given={Hyacinth},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{Consistency Management; Organizational Dimensions; Collaborative
+  Modeling}
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLAHSE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{abstract}{%
+    Collaborative modeling requires teams to maintain consistency across
+  artifacts while coordinating work, communicating, and planning decisions.
+  Existing consistency management approaches provide mechanisms for detecting,
+  preventing, and resolving inconsistencies, but primarily focus on technical
+  aspects and provide limited alignment to the organizational perspective. In
+  practice, factors such as decision authority, collaboration structure,
+  ownership, and tolerance for temporary inconsistencies influence how
+  inconsistencies arise and should be handled. This requires consistency
+  management to consider these organizational dimensions. In this paper, we
+  propose a scenario-aware perspective for collaborative modeling based on
+  organizational dimensions. For that, we: (i) introduce organizational
+  dimensions for collaborative consistency management; (ii) define different
+  collaborative scenarios based on these dimensions; and (iii) map these
+  scenarios to different consistency management strategies. We also discuss
+  research challenges and opportunities for scenario-aware consistency
+  management.%
+    }
+    \field{booktitle}{Proceedings of the ACM/IEEE 29th International Conference
+  on Model Driven Engineering Languages and Systems}
+    \verb{doi}
+    \verb 10.1145/3837062.3838722
+    \endverb
+    \field{isbn}{9798400729034}
+    \field{pages}{559–563}
+    \field{series}{MODELS Companion '26}
+    \field{title}{{Towards Rethinking Consistency Management in Collaborative
+  Modeling Through Organizational Dimensions}}
+    \verb{url}
+    \verb https://doi.org/10.1145/3837062.3838722
+    \endverb
+    \list{location}{1}{%
+      {M{\'a}laga, Spain}%
+    }
+    \field{year}{2026}
+    \warn{\item Can't use 'location' + 'address' \item Invalid format of field
+  'month'}
   \endentry
 
   \entry{marchezan2026dependency}{article}{}{}
@@ -124,7 +368,93 @@
     \warn{\item Invalid format of field 'month'}
   \endentry
 
-  \entry{Marchezan2026Kamino}{inproceedings}{}{}
+  \entry{marchezan2026type}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Delcourt},
+         familyi={D\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Syriani},
+         familyi={S\bibinitperiod},
+         given={Eugene},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sahraoui},
+         familyi={S\bibinitperiod},
+         given={Houari},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLDKSESH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{title}{{Type-IV Code Clone Detection via Layer-Wise Non-Contrastive
+  Representation Learning}}
+    \field{journaltitle}{arXiv preprint arXiv:2609.17338}
+    \field{year}{2026}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{marchezan2026does}{article}{}{}
+    \name{author}{5}{}{%
+      {{hash=ML}{%
+         family={Marchezan},
+         familyi={M\bibinitperiod},
+         given={Luciano},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LR}{%
+         family={Lefeuvre},
+         familyi={L\bibinitperiod},
+         given={Romain},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=DK}{%
+         family={Delcourt},
+         familyi={D\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Combemale},
+         familyi={C\bibinitperiod},
+         given={Benoit},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Sahraoui},
+         familyi={S\bibinitperiod},
+         given={Houari},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ML+2}
+    \strng{fullhash}{MLLRDKCBSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{7}
+    \field{sortinithash}{7}
+    \field{title}{{Does AI-Assisted Development Homogenize Software? An
+  Empirical Study of Code Similarity, Quality, and Evolution}}
+    \field{journaltitle}{arXiv preprint arXiv:2610.24093}
+    \field{year}{2026}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{10.1145/3832153}{article}{}{}
     \name{author}{4}{}{%
       {{hash=ML}{%
          family={Marchezan},
@@ -141,7 +471,7 @@
       {{hash=DK}{%
          family={Delcourt},
          familyi={D\bibinitperiod},
-         given={Kevin},
+         given={K{\'e}vin},
          giveni={K\bibinitperiod},
       }}%
       {{hash=SH}{%
@@ -151,28 +481,52 @@
          giveni={H\bibinitperiod},
       }}%
     }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{Code generation, Semantic code similarity, Software maintenance}
     \strng{namehash}{ML+2}
     \strng{fullhash}{MLSEDKSH1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
     \field{sortinithash}{7}
-    \field{booktitle}{35th SIGSOFT International Symposium on Software Testing
-  and Analysis (ISSTA 2026)}
+    \field{abstract}{%
+    Detecting Type-IV code clones, functionally equivalent fragments with
+  different syntax, remains a major challenge for quality assurance. Existing
+  datasets are limited in supporting semantic clone detection due to class
+  imbalance, lack of verified functional equivalence, and data redundancy. We
+  present an automated approach for generating Type-IV clones by leveraging
+  large language models (LLMs) with deterministic testing and filtering. The
+  approach normalizes input code, produces diverse clone candidates through
+  customizable prompts, and ensures semantic equivalence via automated testing
+  and syntactic diversity through CodeBLEU-based filtering. Representative
+  unique clones are then selected by clustering. We evaluate the extent to
+  which LLMs generate diverse Python Type-IV clones, how prompt and generation
+  factors affect quality and efficiency, the retention of only Type-IV clones
+  at the final dataset, and the usefulness of the resulting dataset for
+  fine-tuning embedding models. Results show that the generated clones improve
+  Type-IV clone detection across different programming languages.%
+    }
     \verb{doi}
     \verb 10.1145/3832153
     \endverb
-    \field{note}{Just Accepted}
+    \field{number}{ISSTA}
     \field{title}{{Automated Type-IV Clone Generation via LLMs and
   Deterministic Validation}}
     \verb{url}
-    \verb /preprints/2026_ISSTA_KaminoDatasetGenerator_Marchezan.pdf
+    \verb https://doi.org/10.1145/3832153
     \endverb
+    \field{volume}{3}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{Proc. ACM Softw. Eng.}
+    \field{month}{10}
     \field{year}{2026}
-    \warn{\item Invalid format of field 'month'}
   \endentry
 
-  \entry{Marchezan2026NeoModeling}{article}{}{}
+  \entry{marchezan2026neomodeling}{article}{}{}
     \name{author}{3}{}{%
       {{hash=ML}{%
          family={Marchezan},
@@ -193,15 +547,18 @@
          giveni={E\bibinitperiod},
       }}%
     }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
     \strng{namehash}{ML+2}
     \strng{fullhash}{MLVNSE1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{sortinit}{7}
     \field{sortinithash}{7}
-    \field{note}{Just accepted}
-    \field{title}{{NeoModeling Framework: Leveraging Graph-Based Persistence
-  for Large-Scale Model-Driven Engineering}}
+    \field{pages}{1\bibrangedash 32}
+    \field{title}{{NeoModeling Framework: leveraging graph-based persistence
+  for large-scale model-driven engineering}}
     \field{journaltitle}{Software and Systems Modeling}
     \field{year}{2026}
     \warn{\item Invalid format of field 'month'}
@@ -289,8 +646,8 @@
     \field{sortinithash}{7}
     \field{booktitle}{Proceedings of the ACM/IEEE 28th International Conference
   on Model Driven Engineering Languages and Systems}
-    \field{title}{Going from the Past back to the Future: Incrementally
-  Reconstructing a Metamodel History}
+    \field{title}{{Going from the Past back to the Future: Incrementally
+  Reconstructing a Metamodel History}}
     \field{year}{2025}
   \endentry
 
@@ -342,8 +699,8 @@
     \verb 10.1145/3708527
     \endverb
     \field{issn}{1049-331X}
-    \field{title}{Contemporary Software Modernization: Strategies, Driving
-  Forces, and Research Opportunities}
+    \field{title}{{Contemporary Software Modernization: Strategies, Driving
+  Forces, and Research Opportunities}}
     \verb{url}
     \verb https://doi.org/10.1145/3708527
     \endverb
@@ -393,8 +750,8 @@
     \verb{eprint}
     \verb 2407.04017
     \endverb
-    \field{title}{Contemporary Software Modernization: Perspectives and
-  Challenges to Deal with Legacy Systems}
+    \field{title}{{Contemporary Software Modernization: Perspectives and
+  Challenges to Deal with Legacy Systems}}
     \verb{url}
     \verb https://arxiv.org/abs/2407.04017
     \endverb
@@ -443,8 +800,8 @@
   Applications (ECMFA 2024)}
     \field{number}{3}
     \field{pages}{1\bibrangedash 14}
-    \field{title}{Conflict-based Change Awareness for Collaborative
-  Model-driven Software Engineering}
+    \field{title}{{Conflict-based Change Awareness for Collaborative
+  Model-driven Software Engineering}}
     \verb{url}
     \verb http://www.jot.fm/contents/issue_2024_03/article7.html
     \endverb
@@ -575,8 +932,8 @@
     \field{sortinithash}{7}
     \field{booktitle}{IEEE International Conference on Software Analysis,
   Evolution and Reengineering (SANER)}
-    \field{title}{Exploring Dependencies Among Inconsistencies to Enhance the
-  Consistency Maintenance of Models}
+    \field{title}{{Exploring Dependencies Among Inconsistencies to Enhance the
+  Consistency Maintenance of Models}}
     \field{year}{2024}
   \endentry
 
@@ -618,8 +975,8 @@
     \verb{eprint}
     \verb 2407.07269
     \endverb
-    \field{title}{Model-based Maintenance and Evolution with GenAI: A Look into
-  the Future}
+    \field{title}{{Model-based Maintenance and Evolution with GenAI: A Look
+  into the Future}}
     \verb{url}
     \verb https://arxiv.org/abs/2407.07269
     \endverb
@@ -683,8 +1040,8 @@
     \endverb
     \field{pages}{655–659}
     \field{series}{MODELS Companion '24}
-    \field{title}{A Tool for Collaborative Consistency Checking During
-  Modeling}
+    \field{title}{{A Tool for Collaborative Consistency Checking During
+  Modeling}}
     \verb{url}
     \verb https://doi.org/10.1145/3652620.3688558
     \endverb
@@ -747,7 +1104,7 @@
     \endverb
     \field{issn}{0164-1212}
     \field{pages}{112064}
-    \field{title}{Actionable light-weight process guidance}
+    \field{title}{{Actionable light-weight process guidance}}
     \verb{url}
     \verb https://www.sciencedirect.com/science/article/pii/S0164121224001092
     \endverb
@@ -803,8 +1160,8 @@
   Applications (ECMFA 2023)}
     \field{number}{2}
     \field{pages}{2:1\bibrangedash 14}
-    \field{title}{A flexible operation-based infrastructure for collaborative
-  model-driven engineering}
+    \field{title}{{A flexible operation-based infrastructure for collaborative
+  model-driven engineering}}
     \field{volume}{22}
     \field{journaltitle}{Journal of Object Technology}
     \field{month}{07}
@@ -940,8 +1297,8 @@
     \verb 10.1109/ICSE-SEIP58684.2023.00028
     \endverb
     \field{pages}{246\bibrangedash 257}
-    \field{title}{Fulfilling Industrial Needs for Consistency Among Engineering
-  Artifacts}
+    \field{title}{{Fulfilling Industrial Needs for Consistency Among
+  Engineering Artifacts}}
     \field{year}{2023}
   \endentry
 
